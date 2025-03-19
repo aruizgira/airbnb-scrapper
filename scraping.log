@@ -1,0 +1,26 @@
+2025-03-19 20:06:41,912 - INFO - Iniciando extracci�n de datos de Airbnb
+2025-03-19 20:06:41,912 - INFO - ====== WebDriver manager ======
+2025-03-19 20:06:42,662 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-19 20:06:42,716 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-19 20:06:42,763 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-19 20:06:43,824 - INFO - User-Agent actual: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+2025-03-19 20:06:43,825 - INFO - Procesando p�gina 1 de 1
+2025-03-19 20:06:58,024 - INFO - Imagen guardada: dataset/imagenes/1011688349919294749.jpg
+2025-03-19 20:07:07,506 - INFO - Imagen guardada: dataset/imagenes/743805095354821783.jpg
+2025-03-19 20:07:16,391 - INFO - Imagen guardada: dataset/imagenes/766591533377254000.jpg
+2025-03-19 20:07:27,372 - INFO - Imagen guardada: dataset/imagenes/36941812.jpg
+2025-03-19 20:07:39,217 - INFO - Imagen guardada: dataset/imagenes/43412190.jpg
+2025-03-19 20:07:49,150 - INFO - Imagen guardada: dataset/imagenes/856159.jpg
+2025-03-19 20:08:02,029 - INFO - Imagen guardada: dataset/imagenes/1607133.jpg
+2025-03-19 20:08:11,493 - INFO - Imagen guardada: dataset/imagenes/1166704385578544195.jpg
+2025-03-19 20:08:19,132 - INFO - Imagen guardada: dataset/imagenes/15033088.jpg
+2025-03-19 20:08:29,355 - INFO - Imagen guardada: dataset/imagenes/24481662.jpg
+2025-03-19 20:08:37,475 - INFO - Imagen guardada: dataset/imagenes/8553863.jpg
+2025-03-19 20:08:50,219 - INFO - Imagen guardada: dataset/imagenes/18594748.jpg
+2025-03-19 20:09:00,688 - INFO - Imagen guardada: dataset/imagenes/917486886046299761.jpg
+2025-03-19 20:09:11,886 - INFO - Imagen guardada: dataset/imagenes/1257324262895351737.jpg
+2025-03-19 20:09:22,545 - INFO - Imagen guardada: dataset/imagenes/9937559.jpg
+2025-03-19 20:09:33,938 - INFO - Imagen guardada: dataset/imagenes/728678005813085747.jpg
+2025-03-19 20:09:47,507 - INFO - Imagen guardada: dataset/imagenes/36591624.jpg
+2025-03-19 20:09:55,641 - INFO - Imagen guardada: dataset/imagenes/820497.jpg
+2025-03-19 20:10:05,831 - INFO - Extracci�n completada. 18 anuncios guardados
