@@ -1,19 +1,1777 @@
-ID,Titulo,Descripción,Precio,Precio con descuento,Valoración,Número de valoraciones,Viajeros,Dormitorios,Camas,Baños,Enlace,Imagenes
-1011688349919294749,Apartamento en Eixample,Estudio en la Sagrada Familia,1.575,,"5,0",,2.0,,1.0,1.0,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/miso/Hosting-1011688349919294749/original/2ddee735-0748-4e8f-b4a9-78d70d6738dd.jpeg?im_w=720'],['https://a0.muscache.com/im/ml/photo_enhancement/pictures/miso/Hosting-1011688349919294749/original/2ddee735-0748-4e8f-b4a9-78d70d6738dd.jpeg?im_w=720']
-743805095354821783,Habitación en Eixample,Habitación soleada con baño privado en la Sagrada Familia,1.328,1.057,"4,86",102,,,2.0,,https://www.airbnb.es/rooms/743805095354821783?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-25&check_out=2025-08-25&children=0&infants=0&pets=0&photo_id=1644273429&source_impression_id=p3_1742411207_P3XOLfdbHSlseYAX&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/miso/Hosting-743805095354821783/original/1de39a25-5ba2-4393-8d9f-8e63c81e7582.jpeg?im_w=720']
-766591533377254000,Apartamento en Eixample,*mensual* espacio pequeño Eixample,992,,"4,57",,2.0,1.0,1.0,1.0,https://www.airbnb.es/rooms/766591533377254000?search_mode=regular_search&adults=1&check_in=2025-07-07&check_out=2025-08-08&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3Q3PWhKu-BrrmSC&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/miso/Hosting-766591533377254000/original/5add9537-e322-4694-a5be-4dd753b775c2.jpeg?im_w=720']
-36941812,Habitación en Eixample,Habitación amplia y céntrica en Barcelona,1.810,787,"4,91",32,,,1.0,,https://www.airbnb.es/rooms/36941812?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-16&check_out=2025-08-16&children=0&infants=0&pets=0&photo_id=826174640&source_impression_id=p3_1742411207_P3eHifBxylqU5ewe&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/e3dd2f9d-c0af-4d6c-b5be-2003ccebe44d.jpg?im_w=720']
-43412190,Apartamento en El Raval,Piso luminoso y acogedor en el centro de Barcelona,1.638,,"4,71",,2.0,1.0,1.0,1.0,https://www.airbnb.es/rooms/43412190?search_mode=regular_search&adults=1&check_in=2025-07-15&check_out=2025-08-16&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3SLVaoanbpQiyIm&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/bfbd2a1a-93ef-4530-b40f-cfc54ab0d6db.jpg?im_w=720']
-856159,Habitación en El Poblenou,Alquilo habitación cerca de la playa,840,615,"4,51",,,,3.0,,https://www.airbnb.es/rooms/856159?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-31&check_out=2025-08-30&children=0&infants=0&pets=0&photo_id=8343609&source_impression_id=p3_1742411207_P34y13F998hcHC6k&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/12321686/d97665b4_original.jpg?im_w=720']
-1607133,Apartamento en Gràcia,Bonito apartamento en el corazón de Gràcia (BCN).,2.063,,"4,71",176,4.0,2.0,4.0,1.0,https://www.airbnb.es/rooms/1607133?search_mode=regular_search&adults=1&check_in=2025-07-22&check_out=2025-08-22&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3WcdyeiqmL3edUX&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/23263733/bef5c8f6_original.jpg?im_w=720']
-1166704385578544195,Apartamento en Eixample,Estudio en el centro de Barcelona,1.612,1.245,"5,0",,,1.0,1.0,1.0,https://www.airbnb.es/rooms/1166704385578544195?search_mode=regular_search&adults=1&check_in=2025-07-31&check_out=2025-08-30&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3v45JJ3C2LjFMJ3&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/miso/Hosting-1166704385578544195/original/8594cf0d-b683-4b46-82c2-8bc8e6fbacfd.jpeg?im_w=720']
-15033088,Apartamento en Eixample,Apartamento Sagrada Familia: alquiler mensual,1.798,,"4,58",,3.0,2.0,3.0,1.0,https://www.airbnb.es/rooms/15033088?search_mode=regular_search&adults=1&check_in=2025-07-14&check_out=2025-08-15&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3W9Unw_ER4RG3ay&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/ba4f06ff-584d-4cbc-a277-b0abe15f8604.jpg?im_w=720']
-24481662,Apartamento en Eixample,Precioso Estudio en Barcelona *Bcn* A04,1.840,,"4,67",,2.0,1.0,2.0,1.0,https://www.airbnb.es/rooms/24481662?search_mode=regular_search&adults=1&check_in=2025-07-31&check_out=2025-09-01&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3FWtKmchR5mDD2J&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/989add63-1173-4f00-b24b-0b0d1339952c.jpg?im_w=720']
-8553863,Apartamento en Eixample,Cómodo apartamento en BCN- WIFI,2.807,2.187,"4,52",,2.0,2.0,3.0,5.0,https://www.airbnb.es/rooms/8553863?search_mode=regular_search&adults=1&check_in=2025-07-15&check_out=2025-08-16&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3Rtzo3rkO6F_081&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/108681038/c3e42910_original.jpg?im_w=720']
-18594748,Apartamento en Gràcia,Cerca de la Sagrada Familia y del Parque Güell,1.820,,"4,9",21,2.0,1.0,1.0,1.0,https://www.airbnb.es/rooms/18594748?search_mode=regular_search&adults=1&check_in=2025-07-20&check_out=2025-08-21&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3iNlkRNlldu_FTq&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/miso/Hosting-18594748/original/adc4c4b2-113e-4928-bc50-99bf44ffd4f4.jpeg?im_w=720']
-917486886046299761,Apartamento en El Poblenou,Apartamento en planta alta con terraza en Poblenou,2.171,,"5,0",7,4.0,1.0,2.0,1.0,https://www.airbnb.es/rooms/917486886046299761?search_mode=regular_search&adults=1&check_in=2025-07-01&check_out=2025-08-02&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3AES_iBrgeT73WZ&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/ee575e14-9273-4929-81b8-06d6c9997bbd.jpg?im_w=720']
-1257324262895351737,Apartamento en Eixample,Estudio totalmente equipado cerca de la plaza de España,2.713,2.054,,,2.0,1.0,1.0,1.0,https://www.airbnb.es/rooms/1257324262895351737?search_mode=regular_search&adults=1&check_in=2025-07-24&check_out=2025-08-25&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3xxWMV-0FBfRrk8&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI1NzMyNDI2Mjg5NTM1MTczNw%3D%3D/original/b16ed015-91df-4a09-b290-94954ae5dc30.jpeg?im_w=720']
-9937559,Apartamento en Eixample,"Tranquilo, cálido y perfectamente ubicado.",4.823,2.351,"4,76",,5.0,2.0,3.0,1.0,https://www.airbnb.es/rooms/9937559?search_mode=regular_search&adults=1&check_in=2025-07-20&check_out=2025-08-20&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P322ByG7ZncGmoDS&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/974b9e40-c684-4077-85bd-8e272cec9fe5.jpg?im_w=720']
-728678005813085747,Habitación en Eixample,Habitación soleada en el centro de Barcelona (más de 1 mes) - Calvé,2.012,896,,,,,1.0,,https://www.airbnb.es/rooms/728678005813085747?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-30&check_out=2025-08-30&children=0&infants=0&pets=0&photo_id=1762526076&source_impression_id=p3_1742411207_P35ZxEi_or09B63a&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/miso/Hosting-728678005813085747/original/b9427a02-74b8-47e9-af6f-7f5a982cf496.jpeg?im_w=720']
-36591624,Apartamento en Ciutat Vella,Estudio muy bonito situado en el Barrio Gótico,1.196,,"4,55",,2.0,,2.0,1.0,https://www.airbnb.es/rooms/36591624?search_mode=regular_search&adults=1&check_in=2025-07-30&check_out=2025-08-31&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3ZhQDHuuhA03cIb&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/pictures/40fe62fd-b6e7-40d9-835f-47d0038ec02f.jpg?im_w=720']
-820497,Apartamento en Eixample,Tarradellas,2.387,,"4,88",,3.0,2.0,3.0,2.0,https://www.airbnb.es/rooms/820497?search_mode=regular_search&adults=1&check_in=2025-07-23&check_out=2025-08-24&children=0&infants=0&pets=0&source_impression_id=p3_1742411207_P3G10ncnvdi1WS5q&previous_page_section_name=1000&federated_search_id=e22dadea-e368-4875-8144-64861829847c,['https://a0.muscache.com/im/ml/photo_enhancement/pictures/miso/Hosting-820497/original/16f788c2-eae1-4d68-a489-9b37adca6115.jpeg?im_w=720']
+ID,Titulo,Descripción,Info,Precio,Valoración,num valoraciones,num valoraciones2,Enlace,Imagenes
+1379066780732336948,Apartamento en L'Hospitalet de Llobregat,C1 Conectado con el aeropuerto y el centro,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '6 años de experiencia']","62 € 
+52 € 
+noche
+52 € por noche, inicialmente 62 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio",,,,https://www.airbnb.es/rooms/1379066780732336948?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742502107_P3tOp_e61Z3s4xku&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1379066780732336948/original/403de663-b8ac-4808-a6dd-515f916c2fc1.jpeg?im_w=720']
+1284667959718992188,Habitación en Barcelona,"V1 Habitación doble, centro","['1 cama', '· Baño compartido', '3 años de experiencia']","69 € 
+52 € 
+noche
+52 € por noche, inicialmente 69 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,64",,11 evaluaciones,https://www.airbnb.es/rooms/1284667959718992188?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=2025643711&source_impression_id=p3_1742502108_P36eXLb9jldqSRLc&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-1284667959718992188/original/4424f898-bbe9-42e7-8920-9e5674aaf92c.jpeg?im_w=720']
+1107266131628495787,Habitación en Barcelona,"E2 Habitación doble, comoda!","['1 cama de matrimonio', '· Baño compartido', '3 años de experiencia']","70 € 
+58 € 
+noche
+58 € por noche, inicialmente 70 €
+·
+289 € en total
+289 € en total
+Consulta el desglose del precio","4,66",,47 evaluaciones,https://www.airbnb.es/rooms/1107266131628495787?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1856233976&source_impression_id=p3_1742502108_P31vOuy0KN6RIV7H&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-694905380047837236/original/d5f35457-fce1-40b1-a2b4-5dbadb11462f.jpeg?im_w=720']
+1289007140505930918,Habitación en Barcelona,Habitación en Centro/AC,"['1 cama', '· Baño compartido', '1 año de experiencia']","72 € 
+36 € 
+noche
+36 € por noche, inicialmente 72 €
+·
+176 € en total
+176 € en total
+Consulta el desglose del precio","4,7",,23 evaluaciones,https://www.airbnb.es/rooms/1289007140505930918?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2033719337&source_impression_id=p3_1742502108_P3UQqZ37CwDn_cvN&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4OTAwNzE0MDUwNTkzMDkxOA%3D%3D/original/3565addd-1d7b-4e0d-8569-856f1dd8f79b.jpeg?im_w=720']
+1368340927324103829,Apartamento en Barcelona,Apartamento de lujo en el barrio de Suit Barcelona,"['3 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '']","279 € 
+noche
+279 € por noche
+·
+1.395 € en total
+1.395 € en total
+Consulta el desglose del precio","5,0",8,,https://www.airbnb.es/rooms/1368340927324103829?search_mode=regular_search&adults=1&check_in=2025-08-03&check_out=2025-08-08&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P3lCLfb3ozZm0-uG&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-1368340927324103829/original/a49df1af-bf95-467c-ab14-ac489758af57.jpeg?im_w=720']
+1363643976732923635,Apartamento en Santa Coloma de Gramenet,Dulce habitación para un huésped con Alma de niño,"['1 viajero', '· 1 dormitorio', '· 1 cama', '· 1 baño', '2 años de experiencia']","34 € 
+noche
+34 € por noche
+·
+170 € en total
+170 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1363643976732923635?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P3GBW0i2Ews01j0H&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1363643976732923635/original/ed787562-723f-499c-b927-01ed9ebd560c.jpeg?im_w=720']
+642485551951630009,Habitación en Barcelona,CC3 Habitación cómoda doble en el centro!,"['1 litera', '· Baño compartido', '3 años de experiencia']","68 € 
+52 € 
+noche
+52 € por noche, inicialmente 68 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,76",,79 evaluaciones,https://www.airbnb.es/rooms/642485551951630009?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1793114006&source_impression_id=p3_1742502108_P3g3Wtd-wrPBnlbW&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/b9bdfb85-ea2e-49a6-8dd5-c991fcebccb1.jpg?im_w=720']
+1092591785783325905,Alojamiento en Barcelona,"VM5 Habitacion doble, centro!","['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1,5 baños', '5 años de experiencia']","68 € 
+62 € 
+noche
+62 € por noche, inicialmente 68 €
+·
+306 € en total
+306 € en total
+Consulta el desglose del precio","4,71",,52 evaluaciones,https://www.airbnb.es/rooms/1092591785783325905?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P31sh3DwI-zSQjks&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-1092591785783325905/original/996a8dac-8ebf-4047-bf17-84b856707783.jpeg?im_w=720']
+717032907945200215,Hotel en Barcelona,Catalonia Rigoletto 4* Hotel - Habitación Doble,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baños privado', '2 años de experiencia']","152 € 
+noche
+152 € por noche
+·
+760 € en total
+760 € en total
+Consulta el desglose del precio","4,66",,217 evaluaciones,https://www.airbnb.es/rooms/717032907945200215?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P3XZbG6ttTuO8FzL&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-717032907945200215/original/e2795d80-1f38-4b26-b8e1-000b64304389.jpeg?im_w=720']
+38766231,Habitación en Barcelona,Acogedora habitación en el centro de Barcelona,"['1 cama individual', '· Baño compartido', '6 años de experiencia']","37 € 
+noche
+37 € por noche
+·
+181 € en total
+181 € en total
+Consulta el desglose del precio","5,0",,9 evaluaciones,https://www.airbnb.es/rooms/38766231?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-27&check_out=2025-05-02&children=0&infants=0&pets=0&photo_id=1331877865&source_impression_id=p3_1742502108_P3BxeESW2OVYEbq_&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/b5149752-490d-4900-9961-5a79c18083b1.jpg?im_w=720']
+1379616413634585985,Alojamiento en Barcelona,Habitación doble céntrica 05,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño compartido', '1 mes de experiencia']","58 € 
+noche
+58 € por noche
+·
+289 € en total
+289 € en total
+Consulta el desglose del precio",,,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/1379616413634585985?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P3V7oqlhZN_rmJaY&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMzODMwNDkzMjYyODgzMjI2Mg==/original/df6b1622-b118-4cda-9b81-080e68cfaf5f.jpeg?im_w=720']
+1274467482334595712,Habitación en Barcelona,Barcelona ( habitación doble uso individual:,"['1 cama', '· Baño compartido', 'Superanfitrión', '· 10 meses de experiencia']","41 € 
+noche
+41 € por noche
+·
+205 € en total
+205 € en total
+Consulta el desglose del precio","5,0",8,,https://www.airbnb.es/rooms/1274467482334595712?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2022267293&source_impression_id=p3_1742502108_P3Wiot7r7VUgK_N-&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1274467482334595712/original/16eefe74-6006-4cd2-8c8e-068281bdd15b.jpeg?im_w=720']
+1195704485972810884,Alojamiento en L'Hospitalet de Llobregat,Habitación triple con baño privado en un apartamento,"['3 viajeros', '· 1 dormitorio', '· 3 camas', '· 1 baños privado', '2 años de experiencia']","103 € 
+41 € 
+noche
+41 € por noche, inicialmente 103 €
+·
+204 € en total
+204 € en total
+Consulta el desglose del precio","4,64",,36 evaluaciones,https://www.airbnb.es/rooms/1195704485972810884?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P3mvRC-nyEwRRR99&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5NTcwNDQ4NTk3MjgxMDg4NA%3D%3D/original/0d2b59a0-4901-447c-a74b-ee8ab0a18194.jpeg?im_w=720']
+820334535111222324,Habitación en Barcelona,Habitación acogedora y muy tranquila,"['1 litera', '· Baño compartido', 'Superanfitrión', '· 7 años de experiencia']","44 € 
+noche
+44 € por noche
+·
+217 € en total
+217 € en total
+Consulta el desglose del precio","4,83",247,,https://www.airbnb.es/rooms/820334535111222324?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2026-01-29&check_out=2026-02-03&children=0&infants=0&pets=0&photo_id=1586336482&source_impression_id=p3_1742502108_P33kXzvYgx0AWaS6&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-820334535111222324/original/823160ca-0eab-40cf-81d9-de62bb3269dc.jpeg?im_w=720']
+1001344667839269099,Habitación en L'Hospitalet de Llobregat,Habitación privada en Coliving #9M,"['1 cama', '· Baño compartido', '1 año de experiencia']","78 € 
+46 € 
+noche
+46 € por noche, inicialmente 78 €
+·
+228 € en total
+228 € en total
+Consulta el desglose del precio","4,83",,24 evaluaciones,https://www.airbnb.es/rooms/1001344667839269099?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1759276444&source_impression_id=p3_1742502108_P3FQWBr-Gr3i1K2r&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/miso/Hosting-985609841767023722/original/b81c3715-6a60-4801-8c65-4e3d2f13dcc7.jpeg?im_w=720']
+1133084173254255155,Hotel en Barcelona,Hotel moderno a 10 minutos de la playa por Vincci,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baños privado', '11 meses de experiencia']","101 € 
+noche
+101 € por noche
+·
+505 € en total
+505 € en total
+Consulta el desglose del precio","4,63",,72 evaluaciones,https://www.airbnb.es/rooms/1133084173254255155?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P32V4UOBdJK1bWPE&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1133084173254255155/original/7a9f48fe-9f4b-4450-bc52-b337f6b8a4b1.jpeg?im_w=720']
+1284013764953237523,Habitación en Barcelona,GV2 Habitación céntrica doble,"['1 cama', '· Baño compartido', '3 años de experiencia']","67 € 
+58 € 
+noche
+58 € por noche, inicialmente 67 €
+·
+289 € en total
+289 € en total
+Consulta el desglose del precio","4,63",,8 evaluaciones,https://www.airbnb.es/rooms/1284013764953237523?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=2025047245&source_impression_id=p3_1742502108_P39jAlC5-o_ioLEh&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1284013764953237523/original/290f7c96-67df-4ecc-9f36-1ee1bb691137.jpeg?im_w=720']
+972366981696468822,Alojamiento en L'Hospitalet de Llobregat,Habitación doble estándar en un apartamento moderno,"['2 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño compartido', '2 años de experiencia']","72 € 
+48 € 
+noche
+48 € por noche, inicialmente 72 €
+·
+240 € en total
+240 € en total
+Consulta el desglose del precio","4,65",,77 evaluaciones,https://www.airbnb.es/rooms/972366981696468822?search_mode=regular_search&adults=1&check_in=2025-03-25&check_out=2025-03-30&children=0&infants=0&pets=0&source_impression_id=p3_1742502108_P3wwNznwjCQJklKr&previous_page_section_name=1000&federated_search_id=9b2b26a6-8660-43fd-ab9d-2c811adc49aa,['https://a0.muscache.com/im/pictures/hosting/Hosting-972366981696468822/original/e0a8783e-9a44-45c7-aab6-94cefd9ae411.jpeg?im_w=720']
+997212702957383135,Habitación en L'Hospitalet de Llobregat,Habitación privada en coliving #13P,"['1 cama', '· Baño compartido', '1 año de experiencia']","82 € 
+49 € 
+noche
+49 € por noche, inicialmente 82 €
+·
+241 € en total
+241 € en total
+Consulta el desglose del precio","4,58",,33 evaluaciones,https://www.airbnb.es/rooms/997212702957383135?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-25&check_out=2025-03-30&children=0&infants=0&pets=0&photo_id=1754808902&source_impression_id=p3_1742502398_P3U9sDAHXVWUy37A&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-985609841767023722/original/b81c3715-6a60-4801-8c65-4e3d2f13dcc7.jpeg?im_w=720']
+779127431760394971,Habitación en L'Hospitalet de Llobregat,Habitación hogareña,"['1 cama', '· Baño compartido', '5 años de experiencia']","43 € 
+noche
+43 € por noche
+·
+211 € en total
+211 € en total
+Consulta el desglose del precio","4,72",,190 evaluaciones,https://www.airbnb.es/rooms/779127431760394971?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-27&check_out=2025-04-01&children=0&infants=0&pets=0&photo_id=1991354207&source_impression_id=p3_1742502398_P3AAvfsJ1s3azxYc&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-779127431760394971/original/da2eecf5-39f1-4143-b389-5ab0b7ae566c.jpeg?im_w=720']
+1133084173254255155,Hotel en Barcelona,Hotel moderno a 10 minutos de la playa por Vincci,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baños privado', '11 meses de experiencia']","101 € 
+noche
+101 € por noche
+·
+505 € en total
+505 € en total
+Consulta el desglose del precio","4,63",,72 evaluaciones,https://www.airbnb.es/rooms/1133084173254255155?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P36kh3BYHcHJbVis&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1133084173254255155/original/7a9f48fe-9f4b-4450-bc52-b337f6b8a4b1.jpeg?im_w=720']
+1284672054446846600,Habitación en Barcelona,"V3 Habitación doble, centro","['1 cama', '· Baño compartido', '3 años de experiencia']","70 € 
+52 € 
+noche
+52 € por noche, inicialmente 70 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,8",,5 evaluaciones,https://www.airbnb.es/rooms/1284672054446846600?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=2025646368&source_impression_id=p3_1742502398_P3L5Q8PLL8GLLASZ&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-1284672054446846600/original/bb961a73-4c48-4841-8b5f-8ae23eed5b37.jpeg?im_w=720']
+1170312575843565507,Habitación en Barcelona,"R1 Habitación doble, Sants","['1 cama', '· Baño compartido', '3 años de experiencia']","54 € 
+noche
+54 € por noche
+·
+266 € en total
+266 € en total
+Consulta el desglose del precio","4,64",,33 evaluaciones,https://www.airbnb.es/rooms/1170312575843565507?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1921057654&source_impression_id=p3_1742502398_P31xuia91AQUGwp7&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-1170312575843565507/original/967517e1-d088-407b-a0ae-0daba12b2c43.jpeg?im_w=720']
+1001336207396163720,Habitación en L'Hospitalet de Llobregat,Habitación privada en coliving #5M,"['1 cama', '· Baño compartido', '1 año de experiencia']","77 € 
+46 € 
+noche
+46 € por noche, inicialmente 77 €
+·
+228 € en total
+228 € en total
+Consulta el desglose del precio","4,67",,24 evaluaciones,https://www.airbnb.es/rooms/1001336207396163720?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1759264617&source_impression_id=p3_1742502398_P35Alx4MbjfLg81a&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-985609841767023722/original/b81c3715-6a60-4801-8c65-4e3d2f13dcc7.jpeg?im_w=720']
+1128762874708333087,Habitación en Barcelona,"UG5 Habitación doble, centro!","['1 cama', '· Baño compartido', '3 años de experiencia']","68 € 
+62 € 
+noche
+62 € por noche, inicialmente 68 €
+·
+306 € en total
+306 € en total
+Consulta el desglose del precio","4,69",,32 evaluaciones,https://www.airbnb.es/rooms/1128762874708333087?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1877532213&source_impression_id=p3_1742502398_P3L0rJF-1BweHuLe&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-1128762874708333087/original/587c8cf2-43dd-4872-a642-b39e59a3df08.jpeg?im_w=720']
+1284013764953237523,Habitación en Barcelona,GV2 Habitación céntrica doble,"['1 cama', '· Baño compartido', '3 años de experiencia']","67 € 
+58 € 
+noche
+58 € por noche, inicialmente 67 €
+·
+289 € en total
+289 € en total
+Consulta el desglose del precio","4,63",,8 evaluaciones,https://www.airbnb.es/rooms/1284013764953237523?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=2025047245&source_impression_id=p3_1742502398_P3hIWuJylvMxb6iR&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-1284013764953237523/original/290f7c96-67df-4ecc-9f36-1ee1bb691137.jpeg?im_w=720']
+972366981696468822,Alojamiento en L'Hospitalet de Llobregat,Habitación doble estándar en un apartamento moderno,"['2 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño compartido', '2 años de experiencia']","72 € 
+48 € 
+noche
+48 € por noche, inicialmente 72 €
+·
+240 € en total
+240 € en total
+Consulta el desglose del precio","4,65",,77 evaluaciones,https://www.airbnb.es/rooms/972366981696468822?search_mode=regular_search&adults=1&check_in=2025-03-25&check_out=2025-03-30&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P3j84yPfiHowo15M&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-972366981696468822/original/e0a8783e-9a44-45c7-aab6-94cefd9ae411.jpeg?im_w=720']
+609088912417473137,Apartamento en L'Hospitalet de Llobregat,¡Precioso apartamento para 4 con piscina!,"['4 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 3 años de experiencia']","163 € 
+110 € 
+noche
+110 € por noche, inicialmente 163 €
+·
+550 € en total
+550 € en total
+Consulta el desglose del precio","4,89",,161 evaluaciones,https://www.airbnb.es/rooms/609088912417473137?search_mode=regular_search&adults=1&check_in=2025-04-06&check_out=2025-04-11&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P3wc_HlPkr0RrIa2&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-609088912417473137/original/1b088fc8-1e3b-4615-9fc3-4c2ea5ce1238.png?im_w=720']
+1189057695380856628,Alojamiento en Barcelona,TN2 Habitación doble,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño compartido', '3 años de experiencia']","67 € 
+noche
+67 € por noche
+·
+335 € en total
+335 € en total
+Consulta el desglose del precio","4,76",,25 evaluaciones,https://www.airbnb.es/rooms/1189057695380856628?search_mode=regular_search&adults=1&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P3UokRFDfybTvfF1&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-1189057695380856628/original/1951846b-4579-4596-a297-1d70f58b773a.jpeg?im_w=720']
+810071660206034843,Habitación en Barcelona,Habitación Clot-Sagrada familia,"['1 cama', '· Baño privado en el alojamiento', '13 años de experiencia']","39 € 
+noche
+39 € por noche
+·
+193 € en total
+193 € en total
+Consulta el desglose del precio","3,33",,3 evaluaciones,https://www.airbnb.es/rooms/810071660206034843?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1977234114&source_impression_id=p3_1742502398_P3x--OCBDGSah0BR&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-810071660206034843/original/54976bf3-2d78-4e47-b7b9-4bea8e9cb014.jpeg?im_w=720']
+1094948778032934112,Habitación en Barcelona,Cómoda habitación doble en piso familiar,"['1 cama de matrimonio', '· Baño compartido', '11 meses de experiencia']","55 € 
+45 € 
+noche
+45 € por noche, inicialmente 55 €
+·
+224 € en total
+224 € en total
+Consulta el desglose del precio","4,61",,85 evaluaciones,https://www.airbnb.es/rooms/1094948778032934112?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1893652339&source_impression_id=p3_1742502398_P3QFVPCqJRJvLunW&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA5NDk0ODc3ODAzMjkzNDExMg%3D%3D/original/19ed0449-2a85-47a2-95d0-d97528abcf2c.jpeg?im_w=720']
+50309959,Apartamento en Cornellà de Llobregat,Soleado apartamento con terraza chillout,"['4 viajeros', '· 2 dormitorios', '· 4 camas', '· 1 baño', '7 años de experiencia']","111 € 
+67 € 
+noche
+67 € por noche, inicialmente 111 €
+·
+334 € en total
+334 € en total
+Consulta el desglose del precio","4,73",,152 evaluaciones,https://www.airbnb.es/rooms/50309959?search_mode=regular_search&adults=1&check_in=2025-03-27&check_out=2025-04-01&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P3dU2bWm8SoA0E6Y&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-50309959/original/235900ac-8244-456b-9135-dd919892fce2.jpeg?im_w=720']
+1334766827175728865,Habitación en Santa Coloma de Gramenet,Habitación cómoda,"['1 cama de matrimonio', '· Baño compartido', '8 meses de experiencia']","44 € 
+36 € 
+noche
+36 € por noche, inicialmente 44 €
+·
+176 € en total
+176 € en total
+Consulta el desglose del precio","4,8",5,,https://www.airbnb.es/rooms/1334766827175728865?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2074577543&source_impression_id=p3_1742502398_P3pyidyIvU7vpBpr&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/hosting/Hosting-1334766827175728865/original/ece8fdd9-f5ea-4615-b9c7-e24712d0a915.jpeg?im_w=720']
+913819246953081801,Apartamento en Badalona,Apartamento soleado y espacioso.,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '6 años de experiencia']","157 € 
+80 € 
+noche
+80 € por noche, inicialmente 157 €
+·
+398 € en total
+398 € en total
+Consulta el desglose del precio","4,36",,84 evaluaciones,https://www.airbnb.es/rooms/913819246953081801?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P3Gqb0U9dBYwy3Sn&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/999f9aee-0173-4457-8f20-a648d4c37f5a.jpg?im_w=720']
+697578891420769168,Habitación en Barcelona,Cozy room Plaza España,"['1 cama', '· Baño compartido', '6 años de experiencia']","50 € 
+noche
+50 € por noche
+·
+246 € en total
+246 € en total
+Consulta el desglose del precio","4,65",,176 evaluaciones,https://www.airbnb.es/rooms/697578891420769168?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-21&check_out=2025-04-26&children=0&infants=0&pets=0&photo_id=1655127711&source_impression_id=p3_1742502398_P3w9FbyDGtslVBCQ&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-697578891420769168/original/60b9c98b-9151-4152-9bf1-9d0437c634c3.jpeg?im_w=720']
+1308583940313022954,Apartamento en Barcelona,Estudio en Barcelona,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '2 años de experiencia']","187 € 
+161 € 
+noche
+161 € por noche, inicialmente 187 €
+·
+801 € en total
+801 € en total
+Consulta el desglose del precio","4,94",17,,https://www.airbnb.es/rooms/1308583940313022954?search_mode=regular_search&adults=1&check_in=2025-03-27&check_out=2025-04-01&children=0&infants=0&pets=0&source_impression_id=p3_1742502398_P3feuaiNr3LEfL26&previous_page_section_name=1000&federated_search_id=950f7eb1-c916-499b-8e3a-68e0e91b09c7,['https://a0.muscache.com/im/pictures/miso/Hosting-1308583940313022954/original/0025886d-e138-4e19-994f-ef2ad9c5f2fd.jpeg?im_w=720']
+1321021264235011863,Habitación compartida en Barcelona,Cama en dormitorio 24pax,"['1 cama', '· 4 baños compartidos', '6 años de experiencia']","24 € 
+noche
+24 € por noche
+·
+119 € en total
+119 € en total
+Consulta el desglose del precio","4,48",,42 evaluaciones,https://www.airbnb.es/rooms/1321021264235011863?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742502675_P3QV1TNJzUH8GsQb&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-1321021264235011863/original/66ec9140-3524-43d0-a9c9-b1f9daf74729.jpeg?im_w=720']
+1316558323040714026,Habitación en Barcelona,Habitación privada cerca a la Sagrada Familia,"['1 cama', '· Baño compartido', '1 mes de experiencia']","64 € 
+45 € 
+noche
+45 € por noche, inicialmente 64 €
+·
+222 € en total
+222 € en total
+Consulta el desglose del precio","4,83",,6 evaluaciones,https://www.airbnb.es/rooms/1316558323040714026?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2086990160&source_impression_id=p3_1742502675_P3iiW2qqIyTLeiu0&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxNjU1ODMyMzA0MDcxNDAyNg%3D%3D/original/e1987812-5b4c-4956-bbde-98de93e9e5af.jpeg?im_w=720']
+1371032034718501373,Habitación en Barcelona,La Catedral Bcn 8,"['1 cama', '· Baño compartido', '1 mes de experiencia']","62 € 
+noche
+62 € por noche
+·
+308 € en total
+308 € en total
+Consulta el desglose del precio",,,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/1371032034718501373?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=2102456855&source_impression_id=p3_1742502675_P3U1S-bQ5ixzC26Y&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-1371032034718501373/original/7ea469b9-182f-49ca-92c2-4bdd47dad947.jpeg?im_w=720']
+1128770863630383980,Habitación en Barcelona,"UG4 Habitación doble, centro!","['1 cama', '· Baño compartido', '3 años de experiencia']","69 € 
+noche
+69 € por noche
+·
+341 € en total
+341 € en total
+Consulta el desglose del precio","4,58",,40 evaluaciones,https://www.airbnb.es/rooms/1128770863630383980?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&photo_id=1877537894&source_impression_id=p3_1742502675_P39xWnBRofPCcmVu&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1128770863630383980/original/650343a1-d734-4f1f-ad28-242b55c9b0fc.jpeg?im_w=720']
+12284640,Habitación en Barcelona,ACOGEDORA HABITACIÓN INDIVIDUAL,"['1 cama', '· Baño compartido', '9 años de experiencia']","76 € 
+59 € 
+noche
+59 € por noche, inicialmente 76 €
+·
+293 € en total
+293 € en total
+Consulta el desglose del precio","4,51",,217 evaluaciones,https://www.airbnb.es/rooms/12284640?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1071220558&source_impression_id=p3_1742502675_P3RjR-fL55vzBfFI&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/b9a90df6-5c1d-4a7a-9860-f3e71cf6ba5a.jpg?im_w=720']
+1358256991550434147,Habitación en Barcelona,Habitación central 5,"['1 cama', '· Baño compartido', 'Nuevo anfitrión']","59 € 
+noche
+59 € por noche
+·
+293 € en total
+293 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1358256991550434147?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-02&check_out=2025-04-07&children=0&infants=0&pets=0&photo_id=2099751964&source_impression_id=p3_1742502675_P3EP4H9oYIzy7gFX&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1358256991550434147/original/bf1fa25a-0bf2-4fb6-9006-b66183faeb9d.jpeg?im_w=720']
+716417508063535121,Habitación en Barcelona,E3 Bonita habitación para 2 en el centro!,"['1 cama', '· Baño compartido', '3 años de experiencia']","68 € 
+57 € 
+noche
+57 € por noche, inicialmente 68 €
+·
+283 € en total
+283 € en total
+Consulta el desglose del precio","4,49",,123 evaluaciones,https://www.airbnb.es/rooms/716417508063535121?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1498849816&source_impression_id=p3_1742502675_P30-Ymtd1XjQ0V9X&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/5bc08d33-041b-4adb-87e4-5d9e0f1a1f99.jpg?im_w=720']
+1001336207396163720,Habitación en L'Hospitalet de Llobregat,Habitación privada en coliving #5M,"['1 cama', '· Baño compartido', '1 año de experiencia']","77 € 
+46 € 
+noche
+46 € por noche, inicialmente 77 €
+·
+228 € en total
+228 € en total
+Consulta el desglose del precio","4,67",,24 evaluaciones,https://www.airbnb.es/rooms/1001336207396163720?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1759264617&source_impression_id=p3_1742502675_P34Cty4vAp3Ey-vX&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-985609841767023722/original/b81c3715-6a60-4801-8c65-4e3d2f13dcc7.jpeg?im_w=720']
+910970451949527146,Habitación en Barcelona,TN1 Habitación doble en BCN!,"['1 cama', '· Baño compartido', '3 años de experiencia']","72 € 
+55 € 
+noche
+55 € por noche, inicialmente 72 €
+·
+272 € en total
+272 € en total
+Consulta el desglose del precio","4,57",,21 evaluaciones,https://www.airbnb.es/rooms/910970451949527146?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1672155377&source_impression_id=p3_1742502675_P3f-aeaLdtdB_2A9&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-877607071940686191/original/fe938508-73a9-46b9-b6e3-899e9892275d.jpeg?im_w=720']
+1196916576046515995,Habitación en Barcelona,"Acogedora habitación doble en el corazón de Born, Barcelona","['2 camas individuales', '· Baño compartido', '8 meses de experiencia']","87 € 
+52 € 
+noche
+52 € por noche, inicialmente 87 €
+·
+259 € en total
+259 € en total
+Consulta el desglose del precio","4,5",,10 evaluaciones,https://www.airbnb.es/rooms/1196916576046515995?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&photo_id=1948664229&source_impression_id=p3_1742502675_P3mucrSKJplW2iOv&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-1196916576046515995/original/aee08da0-aea9-4a96-a510-5ec601b7a4dd.jpeg?im_w=720']
+1185467748965904070,Habitación en Barcelona,Sants 4,"['1 cama de matrimonio', '· Baño compartido', '5 años de experiencia']","67 € 
+37 € 
+noche
+37 € por noche, inicialmente 67 €
+·
+183 € en total
+183 € en total
+Consulta el desglose del precio","4,73",,11 evaluaciones,https://www.airbnb.es/rooms/1185467748965904070?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1944134019&source_impression_id=p3_1742502675_P30LKkzNalO6il0-&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NTQ2Nzc0ODk2NTkwNDA3MA%3D%3D/original/d3408d14-1ea2-4aa2-a0e1-2dc42e6fe771.jpeg?im_w=720']
+1366500307468893359,Habitación en L'Hospitalet de Llobregat,Descanso,"['1 cama', '· Aseo compartido', 'Nuevo anfitrión']","36 € 
+noche
+36 € por noche
+·
+180 € en total
+180 € en total
+Consulta el desglose del precio","4,2",,5 evaluaciones,https://www.airbnb.es/rooms/1366500307468893359?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-16&check_out=2025-04-21&children=0&infants=0&pets=0&photo_id=2098311108&source_impression_id=p3_1742502675_P3Hy6J2ii9BvDCjo&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-1366500307468893359/original/74c3db44-8738-480f-a78c-11d9593ae20e.jpeg?im_w=720']
+795763342039117146,Apartamento en Barcelona,Elegante apartamento Rambla Badal,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '6 años de experiencia']","115 € 
+noche
+115 € por noche
+·
+574 € en total
+574 € en total
+Consulta el desglose del precio","4,54",,41 evaluaciones,https://www.airbnb.es/rooms/795763342039117146?search_mode=regular_search&adults=1&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&source_impression_id=p3_1742502675_P3AEeCDjwzPWv9AQ&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/2134c5c7-0cd4-40d2-b17b-28052855e881.jpg?im_w=720']
+1096200855408382157,Hotel en L'Hospitalet de Llobregat,Acogedora habitación doble con fácil acceso al centro de la ciudad,"['2 viajeros', '· 1 dormitorio', '· 1 baños privado', '1 año de experiencia']","88 € 
+noche
+88 € por noche
+·
+438 € en total
+438 € en total
+Consulta el desglose del precio","4,49",,130 evaluaciones,https://www.airbnb.es/rooms/1096200855408382157?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742502675_P3ZlQVPqVghLEdDN&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1096200855408382157/original/31977270-1e14-41a4-b456-6945b80a41c1.jpeg?im_w=720']
+1281814655610446552,Habitación en Barcelona,Habitación moderna triple en gótico,"['2 camas', '· Baño compartido', '4 meses de experiencia']","101 € 
+53 € 
+noche
+53 € por noche, inicialmente 101 €
+·
+263 € en total
+263 € en total
+Consulta el desglose del precio","4,89",9,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/1281814655610446552?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2023050081&source_impression_id=p3_1742502675_P3HCGscyoaM59njN&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/miso/Hosting-1281814655610446552/original/d96e3421-3d50-4c6e-a163-a9186914a791.jpeg?im_w=720']
+1005690428458807477,Habitación en Barcelona,CP skate house room Calçadão RP,"['1 cama', '· Baño compartido', '3 años de experiencia']","53 € 
+47 € 
+noche
+47 € por noche, inicialmente 53 €
+·
+234 € en total
+234 € en total
+Consulta el desglose del precio","4,29",,34 evaluaciones,https://www.airbnb.es/rooms/1005690428458807477?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1763421107&source_impression_id=p3_1742502675_P3IvJU35piYTf-9Z&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1005690428458807477/original/3a08ee28-1a22-4704-a178-dc16532461f0.jpeg?im_w=720']
+46770917,Habitación en Barcelona,Habitación privada con cama grande en el centro de la ciudad,"['1 cama de matrimonio', '· Baño compartido', '4 años de experiencia']","51 € 
+31 € 
+noche
+31 € por noche, inicialmente 51 €
+·
+155 € en total
+155 € en total
+Consulta el desglose del precio","4,63",,73 evaluaciones,https://www.airbnb.es/rooms/46770917?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1997043716&source_impression_id=p3_1742502675_P3Whj2c29C0DX6nq&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-46770917/original/6f410ddc-4b80-49ef-9be4-ad2767860146.jpeg?im_w=720']
+1177426002003576868,Habitación en Barcelona,"PZ1 Habitación doble, playa","['1 cama', '· Baño compartido', '5 años de experiencia']","129 € 
+54 € 
+noche
+54 € por noche, inicialmente 129 €
+·
+266 € en total
+266 € en total
+Consulta el desglose del precio","4,7",,23 evaluaciones,https://www.airbnb.es/rooms/1177426002003576868?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1928668580&source_impression_id=p3_1742502675_P3Lt5vAD0tga2WIr&previous_page_section_name=1000&federated_search_id=d1efe20e-14f7-4c9d-9250-2870424698fa,['https://a0.muscache.com/im/pictures/hosting/Hosting-1177426002003576868/original/8a5e69ba-80e8-43ff-9cd4-fbd7cf5db55e.jpeg?im_w=720']
+862357875663372343,Habitación en Cornellà de Llobregat,Habitación privada cerca de aeropuerto Cornellá,"['1 cama', '· Baño compartido', '2 años de experiencia']","57 € 
+noche
+57 € por noche
+·
+281 € en total
+281 € en total
+Consulta el desglose del precio","4,78",,109 evaluaciones,https://www.airbnb.es/rooms/862357875663372343?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1833845579&source_impression_id=p3_1742502975_P3Mgpn119sd5UMq6&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/c0fdd830-b58b-4a53-b50c-4c3e2c3f54f8.jpg?im_w=720']
+1281814655610446552,Habitación en Barcelona,Habitación moderna triple en gótico,"['2 camas', '· Baño compartido', '4 meses de experiencia']","101 € 
+53 € 
+noche
+53 € por noche, inicialmente 101 €
+·
+263 € en total
+263 € en total
+Consulta el desglose del precio","4,89",9,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/1281814655610446552?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2023050081&source_impression_id=p3_1742502975_P3bStMKhOiAJkubl&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-1281814655610446552/original/d96e3421-3d50-4c6e-a163-a9186914a791.jpeg?im_w=720']
+673086214664958018,Apartamento en Barcelona,Tranquilo: metro hacia el centro a 3 minutos a pie,"['2 viajeros', '· 2 dormitorios', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 3 años de experiencia']","120 € 
+103 € 
+noche
+103 € por noche, inicialmente 120 €
+·
+515 € en total
+515 € en total
+Consulta el desglose del precio","4,88",170,,https://www.airbnb.es/rooms/673086214664958018?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742502975_P3Xx9vk79EqMpxCn&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-673086214664958018/original/6dc2bac3-2d55-4368-ab61-ccc0d2696f14.jpeg?im_w=720']
+2568864,Bed and breakfast en Barcelona,¡ACOGEDORA HABITACIÓN DOBLE EN EL CENTRO DE BARCELONA!,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1,5 baños compartidos', '12 años de experiencia']","68 € 
+noche
+68 € por noche
+·
+403 € en total
+403 € en total
+Consulta el desglose del precio","4,76",,95 evaluaciones,https://www.airbnb.es/rooms/2568864?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742502975_P3AuUCyMA9evIruV&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/e1962929-df70-4f4e-bd08-d8990df01b04.jpg?im_w=720']
+1295642784134342085,Habitación en L'Hospitalet de Llobregat,Habitación luminosa a 1 minuto del metro,"['1 cama de matrimonio', '· Baño compartido', '2 meses de experiencia']","80 € 
+noche
+80 € por noche
+·
+398 € en total
+398 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1295642784134342085?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-13&check_out=2025-07-18&children=0&infants=0&pets=0&photo_id=2091013826&source_impression_id=p3_1742502975_P3biYX93nR0djEsC&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-1295642784134342085/original/07fbceec-88a2-4be2-992a-1a958c579f45.jpeg?im_w=720']
+1282469371966152733,Habitación en Barcelona,Acogedora habitación triple con La Rambla,"['2 camas', '· Baño compartido', '4 meses de experiencia']","113 € 
+60 € 
+noche
+60 € por noche, inicialmente 113 €
+·
+299 € en total
+299 € en total
+Consulta el desglose del precio","4,67",,9 evaluaciones,https://www.airbnb.es/rooms/1282469371966152733?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2025657792&source_impression_id=p3_1742502975_P36ZnGv3pz-ovfNf&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-1282469371966152733/original/7b0fbb13-b77e-4c26-8732-4c281477a244.jpeg?im_w=720']
+1005690428458807477,Habitación en Barcelona,CP skate house room Calçadão RP,"['1 cama', '· Baño compartido', '3 años de experiencia']","53 € 
+47 € 
+noche
+47 € por noche, inicialmente 53 €
+·
+234 € en total
+234 € en total
+Consulta el desglose del precio","4,29",,34 evaluaciones,https://www.airbnb.es/rooms/1005690428458807477?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1763421107&source_impression_id=p3_1742502975_P3wQVY3DNPtZNROo&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-1005690428458807477/original/3a08ee28-1a22-4704-a178-dc16532461f0.jpeg?im_w=720']
+1182484840287899999,Habitación en Barcelona,Habitación gótica,"['1 cama', '· Baño compartido', '4 meses de experiencia']","79 € 
+57 € 
+noche
+57 € por noche, inicialmente 79 €
+·
+281 € en total
+281 € en total
+Consulta el desglose del precio","4,85",,13 evaluaciones,https://www.airbnb.es/rooms/1182484840287899999?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&photo_id=2029011039&source_impression_id=p3_1742502975_P3kGb8fmTiwPU4nU&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4MjQ4NDg0MDI4Nzg5OTk5OQ%3D%3D/original/7059e4db-0ae5-42c4-95e6-fa993c561401.jpeg?im_w=720']
+1171921103740053731,Habitación en Barcelona,Fantástica habitación doble (hasta cuatro personas),"['2 dormitorios', '· 2 camas de matrimonio grandes', '· Baño privado en el alojamiento', '8 meses de experiencia']","138 € 
+93 € 
+noche
+93 € por noche, inicialmente 138 €
+·
+462 € en total
+462 € en total
+Consulta el desglose del precio","4,64",,22 evaluaciones,https://www.airbnb.es/rooms/1171921103740053731?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2013028635&source_impression_id=p3_1742502975_P3XezwrsouaJnKhR&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-1171921103740053731/original/b1e43e75-7827-4875-9687-e2a6d7a9e860.jpeg?im_w=720']
+997210594290448687,Habitación en L'Hospitalet de Llobregat,Habitación privada en coliving #12G,"['1 cama', '· Baño compartido', '1 año de experiencia']","86 € 
+75 € 
+noche
+75 € por noche, inicialmente 86 €
+·
+375 € en total
+375 € en total
+Consulta el desglose del precio","4,77",,35 evaluaciones,https://www.airbnb.es/rooms/997210594290448687?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-29&check_out=2025-04-03&children=0&infants=0&pets=0&photo_id=1754807356&source_impression_id=p3_1742502975_P3dPnpWjcI9EWD7u&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-985609841767023722/original/f07b5c00-cab2-45b1-bd52-fbe0ce98fe9f.jpeg?im_w=720']
+1112482274937242839,Alojamiento en Barcelona,TN4 Habitación para 2!,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño compartido', '3 años de experiencia']","62 € 
+noche
+62 € por noche
+·
+306 € en total
+306 € en total
+Consulta el desglose del precio","4,6",,42 evaluaciones,https://www.airbnb.es/rooms/1112482274937242839?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742502975_P3P8MZz_8t8YhUUa&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-1112482274937242839/original/a4a97e75-5559-431f-84a0-cbeac2cf0c0c.jpeg?im_w=720']
+845559205641002061,Habitación en Barcelona,U2 Habitación doble en Eixample!,"['1 cama', '· Baño compartido', '3 años de experiencia']","69 € 
+56 € 
+noche
+56 € por noche, inicialmente 69 €
+·
+277 € en total
+277 € en total
+Consulta el desglose del precio","4,29",,51 evaluaciones,https://www.airbnb.es/rooms/845559205641002061?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1605304057&source_impression_id=p3_1742502975_P3xL0R-VGSTkNPlv&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-845559205641002061/original/1589fe58-dc64-45a0-885c-69edafd21d71.jpeg?im_w=720']
+1261720421489143465,Habitación en Barcelona,Sants 2,"['1 cama', '· Baño compartido', '5 años de experiencia']","72 € 
+36 € 
+noche
+36 € por noche, inicialmente 72 €
+·
+180 € en total
+180 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1261720421489143465?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=2010326572&source_impression_id=p3_1742502975_P3_hIJFLO5qtSpw4&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2MTcyMDQyMTQ4OTE0MzQ2NQ%3D%3D/original/e9b3a0b4-1feb-4a0e-b0b5-31a635f45a80.jpeg?im_w=720']
+1196916576046515995,Habitación en Barcelona,"Acogedora habitación doble en el corazón de Born, Barcelona","['2 camas individuales', '· Baño compartido', '8 meses de experiencia']","87 € 
+52 € 
+noche
+52 € por noche, inicialmente 87 €
+·
+259 € en total
+259 € en total
+Consulta el desglose del precio","4,5",,10 evaluaciones,https://www.airbnb.es/rooms/1196916576046515995?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&photo_id=1948664229&source_impression_id=p3_1742502975_P3TKZTSsggZOt271&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-1196916576046515995/original/aee08da0-aea9-4a96-a510-5ec601b7a4dd.jpeg?im_w=720']
+948275718347108992,Habitación en Barcelona,B2D Habitación doble!,"['1 cama de matrimonio', '· Baño compartido', '3 años de experiencia']","67 € 
+52 € 
+noche
+52 € por noche, inicialmente 67 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,45",,38 evaluaciones,https://www.airbnb.es/rooms/948275718347108992?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1710196958&source_impression_id=p3_1742502975_P3fZ6RVH6tjaI9zW&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-694801200496664112/original/49480569-fc8a-4fa4-810c-93e0a937fbca.jpeg?im_w=720']
+1369565433060401335,Habitación en Barcelona,Habitación doble en el centro de Barcelona,"['1 cama', '· Baño privado en la habitación', '4 meses de experiencia']","62 € 
+noche
+62 € por noche
+·
+308 € en total
+308 € en total
+Consulta el desglose del precio",,,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/1369565433060401335?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&photo_id=2100965982&source_impression_id=p3_1742502975_P3ESkZQxgvHKMMQZ&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-1369565433060401335/original/2d4229f7-ae19-4765-84b9-40de8fd8cd0c.jpeg?im_w=720']
+1331267656215542202,Habitación en Barcelona,Habitación individual céntrica,"['1 cama individual', '· Baño compartido', '1 mes de experiencia']","72 € 
+41 € 
+noche
+41 € por noche, inicialmente 72 €
+·
+205 € en total
+205 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1331267656215542202?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&photo_id=2083396287&source_impression_id=p3_1742502975_P3nk0jKApKcTB1Ep&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/hosting/Hosting-1331267656215542202/original/d83b28c9-5b17-4a66-b57e-d7ed74a62b72.jpeg?im_w=720']
+1092581195355477547,Habitación en Barcelona,"VM3 ¡Habitación individual, centro!","['1 cama', '· Baño compartido', '5 años de experiencia']","70 € 
+52 € 
+noche
+52 € por noche, inicialmente 70 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,65",,26 evaluaciones,https://www.airbnb.es/rooms/1092581195355477547?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1842343127&source_impression_id=p3_1742502975_P3CiipHDuHWLMcMf&previous_page_section_name=1000&federated_search_id=091cb81b-3b08-4bba-a2bd-6b529c141188,['https://a0.muscache.com/im/pictures/miso/Hosting-1092581195355477547/original/b88f1091-aabe-4cfa-82cb-190005675294.jpeg?im_w=720']
+1248663459339315339,Apartamento en Cornellà de Llobregat,A 25 minutos del centro • A 10 minutos del aeropuerto • Netflix,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '6 meses de experiencia']","115 € 
+56 € 
+noche
+56 € por noche, inicialmente 115 €
+·
+276 € en total
+276 € en total
+Consulta el desglose del precio","4,41",,32 evaluaciones,https://www.airbnb.es/rooms/1248663459339315339?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503260_P3ZaYtpLWf9uFhVe&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-1248663459339315339/original/4a063ad3-1fd0-458d-a399-bd9c091c7d37.jpeg?im_w=720']
+1368340927324103829,Apartamento en Barcelona,Apartamento de lujo en el barrio de Suit Barcelona,"['3 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '']","279 € 
+noche
+279 € por noche
+·
+1.395 € en total
+1.395 € en total
+Consulta el desglose del precio","5,0",8,,https://www.airbnb.es/rooms/1368340927324103829?search_mode=regular_search&adults=1&check_in=2025-08-03&check_out=2025-08-08&children=0&infants=0&pets=0&source_impression_id=p3_1742503260_P3sLJ5BJ4XZxYuWX&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-1368340927324103829/original/a49df1af-bf95-467c-ab14-ac489758af57.jpeg?im_w=720']
+1148197368176741247,Habitación en Vilassar de Mar,Habitación doble con baño privado,"['1 cama', '· Baño privado en la habitación', '2 años de experiencia']","55 € 
+noche
+55 € por noche
+·
+275 € en total
+275 € en total
+Consulta el desglose del precio","4,48",,25 evaluaciones,https://www.airbnb.es/rooms/1148197368176741247?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1898092848&source_impression_id=p3_1742503260_P3bRpCjBglKjHbhp&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-1148187092760529640/original/82a34b4e-3f32-4a88-95ab-555547f70056.jpeg?im_w=720']
+50309959,Apartamento en Cornellà de Llobregat,Soleado apartamento con terraza chillout,"['4 viajeros', '· 2 dormitorios', '· 4 camas', '· 1 baño', '7 años de experiencia']","111 € 
+67 € 
+noche
+67 € por noche, inicialmente 111 €
+·
+334 € en total
+334 € en total
+Consulta el desglose del precio","4,73",,152 evaluaciones,https://www.airbnb.es/rooms/50309959?search_mode=regular_search&adults=1&check_in=2025-03-27&check_out=2025-04-01&children=0&infants=0&pets=0&source_impression_id=p3_1742503260_P3n_cGgdoVaS-g7n&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-50309959/original/235900ac-8244-456b-9135-dd919892fce2.jpeg?im_w=720']
+602559050268098435,Habitación en Santa Coloma de Gramenet,2-3: Acogedora habitación con aire acondicionado,"['1 cama', '· Baño compartido', '3 años de experiencia']","79 € 
+62 € 
+noche
+62 € por noche, inicialmente 79 €
+·
+308 € en total
+308 € en total
+Consulta el desglose del precio","4,74",,73 evaluaciones,https://www.airbnb.es/rooms/602559050268098435?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1378410337&source_impression_id=p3_1742503260_P3rXj4S01wKWffa-&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-602559050268098435/original/8b08950e-9c5c-446e-a69f-e7b44612b4ed.jpeg?im_w=720']
+1336436672430778853,Habitación en Barcelona,Puerto Habitaciones A01,"['1 cama', '· Baño privado en la habitación', '1 mes de experiencia']","57 € 
+noche
+57 € por noche
+·
+285 € en total
+285 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1336436672430778853?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=2096985834&source_impression_id=p3_1742503261_P36ry6RJgdpYScIM&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMzNjQzNjY3MjQzMDc3ODg1Mw==/original/f7657909-ef4c-4a05-af88-bb8c9e5f2f10.jpeg?im_w=720']
+912213244122552340,Alojamiento en Barcelona,Habitaciones Cyber Studio,"['3 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño compartido', '2 años de experiencia']","53 € 
+49 € 
+noche
+49 € por noche, inicialmente 53 €
+·
+244 € en total
+244 € en total
+Consulta el desglose del precio","4,19",,26 evaluaciones,https://www.airbnb.es/rooms/912213244122552340?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503261_P3wfVfRDZSZm3bf5&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/072eda41-d7e4-4ec8-803b-1bf55017cd7c.jpg?im_w=720']
+949384115283907730,Habitación en Barcelona,PG3 Habitación individual centro,"['1 dormitorio', '· Baño compartido', '3 años de experiencia']","105 € 
+52 € 
+noche
+52 € por noche, inicialmente 105 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,5",,20 evaluaciones,https://www.airbnb.es/rooms/949384115283907730?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1711480537&source_impression_id=p3_1742503261_P3OSx7Aiy0Tru71f&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-750750754234731717/original/011a7574-6f13-4781-a050-0e3587310625.jpeg?im_w=720']
+993193293981993043,Habitación en Sant Boi de Llobregat,Rayo de Sol,"['1 cama', '· Baño privado en la habitación', 'Superanfitrión', '· 1 año de experiencia']","71 € 
+62 € 
+noche
+62 € por noche, inicialmente 71 €
+·
+310 € en total
+310 € en total
+Consulta el desglose del precio","4,76",,45 evaluaciones,https://www.airbnb.es/rooms/993193293981993043?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1750799548&source_impression_id=p3_1742503261_P33WEEApKmb6_RFv&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-993193293981993043/original/4dfcd044-2abb-4767-bea5-d214e6a99a70.jpeg?im_w=720']
+820937123511370944,Alojamiento en Santa Coloma de Gramenet,1-4 Cómoda habitación con aire acondicionado,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 2 baños compartidos', '3 años de experiencia']","79 € 
+58 € 
+noche
+58 € por noche, inicialmente 79 €
+·
+289 € en total
+289 € en total
+Consulta el desglose del precio","4,67",,45 evaluaciones,https://www.airbnb.es/rooms/820937123511370944?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503261_P3JZnIvyuxfLEEfP&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-820937123511370944/original/3e175b1e-33c2-4e4f-a605-8189f2e48ed0.jpeg?im_w=720']
+745486676233127450,Habitación en Barcelona,Habitación cerca de Glorias,"['1 cama', '· Baño compartido', '2 años de experiencia']","73 € 
+noche
+73 € por noche
+·
+363 € en total
+363 € en total
+Consulta el desglose del precio","4,75",,73 evaluaciones,https://www.airbnb.es/rooms/745486676233127450?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=1903954830&source_impression_id=p3_1742503261_P3aZb_vFCONaccXa&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzQ1NDg2Njc2MjMzMTI3NDUw/original/6ad2c57f-1915-4c97-9901-f9b8a845f698.jpeg?im_w=720']
+1119456562765576218,Habitación en El Prat de Llobregat,Habitación privada,"['1 dormitorio', '· Baño privado en el alojamiento', '11 meses de experiencia']","88 € 
+noche
+88 € por noche
+·
+439 € en total
+439 € en total
+Consulta el desglose del precio","4,83",53,,https://www.airbnb.es/rooms/1119456562765576218?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-04&check_out=2025-04-09&children=0&infants=0&pets=0&photo_id=1867817156&source_impression_id=p3_1742503261_P3SYgpgFWvIJ68_A&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-1119456562765576218/original/5018e42f-ce8d-47f6-871e-7cc3d240441e.jpeg?im_w=720']
+997210594290448687,Habitación en L'Hospitalet de Llobregat,Habitación privada en coliving #12G,"['1 cama', '· Baño compartido', '1 año de experiencia']","86 € 
+75 € 
+noche
+75 € por noche, inicialmente 86 €
+·
+375 € en total
+375 € en total
+Consulta el desglose del precio","4,77",,35 evaluaciones,https://www.airbnb.es/rooms/997210594290448687?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-29&check_out=2025-04-03&children=0&infants=0&pets=0&photo_id=1754807356&source_impression_id=p3_1742503261_P3gSkaNXUfoCVhz5&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-985609841767023722/original/f07b5c00-cab2-45b1-bd52-fbe0ce98fe9f.jpeg?im_w=720']
+1128756184205812628,Habitación en Barcelona,UG3 Habitación con litera!,"['1 cama', '· Baño compartido', '3 años de experiencia']","70 € 
+52 € 
+noche
+52 € por noche, inicialmente 70 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,56",,25 evaluaciones,https://www.airbnb.es/rooms/1128756184205812628?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1877527608&source_impression_id=p3_1742503261_P3uqlGqEkEd3PSvN&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-1128756184205812628/original/e161360e-8918-4670-aaba-d8605132b676.jpeg?im_w=720']
+1112892688234725460,Habitación en Santa Coloma de Gramenet,2-2: Adorable habitación doble,"['1 dormitorio', '· Baño compartido', '3 años de experiencia']","60 € 
+44 € 
+noche
+44 € por noche, inicialmente 60 €
+·
+218 € en total
+218 € en total
+Consulta el desglose del precio","4,53",,17 evaluaciones,https://www.airbnb.es/rooms/1112892688234725460?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1865591729&source_impression_id=p3_1742503261_P3KI755nPKqV3ixx&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/a8b2ec33-37e0-4efc-bcfa-7cac3a4b7b76.jpg?im_w=720']
+1363643976732923635,Apartamento en Santa Coloma de Gramenet,Dulce habitación para un huésped con Alma de niño,"['1 viajero', '· 1 dormitorio', '· 1 cama', '· 1 baño', '2 años de experiencia']","34 € 
+noche
+34 € por noche
+·
+170 € en total
+170 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1363643976732923635?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503261_P3iJQ7Vj4gkzFX3A&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-1363643976732923635/original/ed787562-723f-499c-b927-01ed9ebd560c.jpeg?im_w=720']
+1361474442081944554,Habitación en Barcelona,Retiro romántico para dos,"['1 cama', '· Baño compartido', '7 meses de experiencia']","71 € 
+noche
+71 € por noche
+·
+351 € en total
+351 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1361474442081944554?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&photo_id=2093853069&source_impression_id=p3_1742503261_P3lh2ZF1G3TLzQog&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/miso/Hosting-1361474442081944554/original/7b3ed152-16d3-4d86-b32e-368092367250.jpeg?im_w=720']
+1171921103740053731,Habitación en Barcelona,Fantástica habitación doble (hasta cuatro personas),"['2 dormitorios', '· 2 camas de matrimonio grandes', '· Baño privado en el alojamiento', '8 meses de experiencia']","138 € 
+93 € 
+noche
+93 € por noche, inicialmente 138 €
+·
+462 € en total
+462 € en total
+Consulta el desglose del precio","4,64",,22 evaluaciones,https://www.airbnb.es/rooms/1171921103740053731?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&photo_id=2013028635&source_impression_id=p3_1742503261_P3SFXEPVa0OjK6VF&previous_page_section_name=1000&federated_search_id=3b55c881-9010-400c-933b-ca8cff791b27,['https://a0.muscache.com/im/pictures/hosting/Hosting-1171921103740053731/original/b1e43e75-7827-4875-9687-e2a6d7a9e860.jpeg?im_w=720']
+1119456562765576218,Habitación en El Prat de Llobregat,Habitación privada,"['1 dormitorio', '· Baño privado en el alojamiento', '11 meses de experiencia']","88 € 
+noche
+88 € por noche
+·
+439 € en total
+439 € en total
+Consulta el desglose del precio","4,83",53,,https://www.airbnb.es/rooms/1119456562765576218?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-04&check_out=2025-04-09&children=0&infants=0&pets=0&photo_id=1867817156&source_impression_id=p3_1742503569_P3W2NYOCGsd6GZ1R&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/miso/Hosting-1119456562765576218/original/5018e42f-ce8d-47f6-871e-7cc3d240441e.jpeg?im_w=720']
+1333998618914995969,Habitación en Badalona,"Amplia habitación con vistas al mar, a unos pasos del metro, luminosa y acogedora","['1 cama', '· Baño compartido', '2 meses de experiencia']","60 € 
+52 € 
+noche
+52 € por noche, inicialmente 60 €
+·
+258 € en total
+258 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1333998618914995969?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=2106316992&source_impression_id=p3_1742503569_P3s3-TDvsjkrcnBg&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMzMzk5ODYxODkxNDk5NTk2OQ==/original/08f410b3-ccc9-4344-ade1-1c950531a4b7.jpeg?im_w=720']
+904737052271381567,Habitación en Badalona,Habitación cómoda para dos.,"['2 camas individuales', '· Baño compartido', 'Superanfitrión', '· 8 años de experiencia']","72 € 
+51 € 
+noche
+51 € por noche, inicialmente 72 €
+·
+252 € en total
+252 € en total
+Consulta el desglose del precio","4,76",,49 evaluaciones,https://www.airbnb.es/rooms/904737052271381567?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=2078534654&source_impression_id=p3_1742503569_P3ZzoJHC8DTjoR3z&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-904737052271381567/original/545a037e-08ed-4298-bb3a-970f54bef035.jpeg?im_w=720']
+1160335950404003372,Habitación en Badalona,Una habitación luminosa.,"['1 cama', '· Baño compartido', 'Superanfitrión', '· 7 meses de experiencia']","65 € 
+noche
+65 € por noche
+·
+322 € en total
+322 € en total
+Consulta el desglose del precio","5,0",12,,https://www.airbnb.es/rooms/1160335950404003372?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1969366244&source_impression_id=p3_1742503569_P3AyrVgjKEZXm4pY&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-1160335950404003372/original/d683bd32-ba87-4d0c-bf42-3cd52e229484.jpeg?im_w=720']
+976852613712497451,Habitación en Sant Adrià de Besòs,Habitación matrimonio en Ático con terraza y baño,"['1 cama', '· Aseo compartido', 'Superanfitrión', '· 2 años de experiencia']","72 € 
+noche
+72 € por noche
+·
+357 € en total
+357 € en total
+Consulta el desglose del precio","4,92",39,,https://www.airbnb.es/rooms/976852613712497451?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1738977666&source_impression_id=p3_1742503569_P3GGe4yCVpYWGDSw&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/65baabf4-baf1-435d-9b3e-8d2a6609b268.jpg?im_w=720']
+673086214664958018,Apartamento en Barcelona,Tranquilo: metro hacia el centro a 3 minutos a pie,"['2 viajeros', '· 2 dormitorios', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 3 años de experiencia']","120 € 
+103 € 
+noche
+103 € por noche, inicialmente 120 €
+·
+515 € en total
+515 € en total
+Consulta el desglose del precio","4,88",170,,https://www.airbnb.es/rooms/673086214664958018?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P3sUKoqUY28yzTIr&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/miso/Hosting-673086214664958018/original/6dc2bac3-2d55-4368-ab61-ccc0d2696f14.jpeg?im_w=720']
+691679958810855386,Habitación en Barcelona,Preciosa habitación a 15 minutos del centro de la ciudad,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 3 años de experiencia']","62 € 
+noche
+62 € por noche
+·
+308 € en total
+308 € en total
+Consulta el desglose del precio","4,79",77,,https://www.airbnb.es/rooms/691679958810855386?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1468863473&source_impression_id=p3_1742503569_P3ENcu8zR2pnu__7&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/miso/Hosting-691679958810855386/original/047fe735-35b3-4994-b3c2-5ce17604ed2e.jpeg?im_w=720']
+913819246953081801,Apartamento en Badalona,Apartamento soleado y espacioso.,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '6 años de experiencia']","157 € 
+80 € 
+noche
+80 € por noche, inicialmente 157 €
+·
+398 € en total
+398 € en total
+Consulta el desglose del precio","4,36",,84 evaluaciones,https://www.airbnb.es/rooms/913819246953081801?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P3Nq04jooiUgHU4s&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/999f9aee-0173-4457-8f20-a648d4c37f5a.jpg?im_w=720']
+1349312385403833605,Apartamento en L'Hospitalet de Llobregat,PB2 Light&Dream / Aeropuerto y ciudad,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '6 años de experiencia']","149 € 
+68 € 
+noche
+68 € por noche, inicialmente 149 €
+·
+340 € en total
+340 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1349312385403833605?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P3I9F7aOqJ6Oohsa&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-1349312385403833605/original/1f199cd6-b341-4ddc-8982-0c2eb5c767e2.jpeg?im_w=720']
+931756,Apartamento en Barcelona,Estudio en Sant Antoni,"['2 viajeros', '· Estudio', '· 1 cama', '· 1 baño', '12 años de experiencia']","145 € 
+112 € 
+noche
+112 € por noche, inicialmente 145 €
+·
+556 € en total
+556 € en total
+Consulta el desglose del precio","4,63",,209 evaluaciones,https://www.airbnb.es/rooms/931756?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P3W_RSErLVC225f_&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-931756/original/b90a2e10-1560-4aaf-83ad-5aa360b4a1f4.jpeg?im_w=720']
+805182872948581979,Habitación en Barcelona,R2 Habitación doble Sants!,"['1 cama', '· Baño compartido', '3 años de experiencia']","108 € 
+noche
+108 € por noche
+·
+540 € en total
+540 € en total
+Consulta el desglose del precio","4,67",,172 evaluaciones,https://www.airbnb.es/rooms/805182872948581979?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-04&check_out=2025-04-09&children=0&infants=0&pets=0&photo_id=1566499101&source_impression_id=p3_1742503569_P3y-FmL1WMJVa9SD&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/miso/Hosting-805182872948581979/original/54eb2ab5-5ba9-4de2-bae8-a720fcd8477b.jpeg?im_w=720']
+1248794356730472452,Apartamento en Barcelona,Apartamento justo al lado de la playa,"['5 viajeros', '· Estudio', '· 1 cama', '· 1 baño', '3 años de experiencia']","148 € 
+108 € 
+noche
+108 € por noche, inicialmente 148 €
+·
+539 € en total
+539 € en total
+Consulta el desglose del precio","5,0",,4 evaluaciones,https://www.airbnb.es/rooms/1248794356730472452?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P3HnmopCxuLjd5Gs&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-1248794356730472452/original/e5dde7de-3c0d-4ef7-9107-deba1b2395ac.jpeg?im_w=720']
+1244155484805996119,Habitación en L'Hospitalet de Llobregat,Habitación prémium en Europa Fira | Quédate con Amal,"['1 cama', '· Baño compartido', 'Superanfitrión', '· 7 meses de experiencia']","139 € 
+123 € 
+noche
+123 € por noche, inicialmente 139 €
+·
+611 € en total
+611 € en total
+Consulta el desglose del precio","5,0",7,,https://www.airbnb.es/rooms/1244155484805996119?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-06&check_out=2025-04-11&children=0&infants=0&pets=0&photo_id=1992430094&source_impression_id=p3_1742503569_P3YC6kTJM8qPVO83&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/miso/Hosting-1244155484805996119/original/ec8a86d0-023b-4e7e-8193-565671d68b82.png?im_w=720']
+795763342039117146,Apartamento en Barcelona,Elegante apartamento Rambla Badal,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '6 años de experiencia']","115 € 
+noche
+115 € por noche
+·
+574 € en total
+574 € en total
+Consulta el desglose del precio","4,54",,41 evaluaciones,https://www.airbnb.es/rooms/795763342039117146?search_mode=regular_search&adults=1&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P3zQdxoUwPL4ans9&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/2134c5c7-0cd4-40d2-b17b-28052855e881.jpg?im_w=720']
+1477381,Loft en Barcelona,Un lugar especial en Barcelona,"['1 viajero', '· Estudio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","116 € 
+noche
+116 € por noche
+·
+580 € en total
+580 € en total
+Consulta el desglose del precio","4,8",568,,https://www.airbnb.es/rooms/1477381?search_mode=regular_search&adults=1&check_in=2025-07-02&check_out=2025-07-07&children=0&infants=0&pets=0&source_impression_id=p3_1742503569_P32xrJcbynWGT3Qs&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/38132763/7e5a8626_original.jpg?im_w=720']
+1128734301844164548,Habitación en Barcelona,"UG1 Habitación doble, centro!","['1 cama', '· Baño compartido', '3 años de experiencia']","67 € 
+noche
+67 € por noche
+·
+335 € en total
+335 € en total
+Consulta el desglose del precio","4,53",,17 evaluaciones,https://www.airbnb.es/rooms/1128734301844164548?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&photo_id=1877516153&source_impression_id=p3_1742503569_P3ZaegpzJnJ4hW0I&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/hosting/Hosting-1128734301844164548/original/9352e1fb-1bae-4944-83eb-b8e90e3a1b48.jpeg?im_w=720']
+712034758516156327,Habitación en Santa Coloma de Gramenet,1-3 Habitación clásica con aire acondicionado!,"['1 cama', '· Baño compartido', '3 años de experiencia']","94 € 
+65 € 
+noche
+65 € por noche, inicialmente 94 €
+·
+324 € en total
+324 € en total
+Consulta el desglose del precio","4,71",,49 evaluaciones,https://www.airbnb.es/rooms/712034758516156327?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1486885819&source_impression_id=p3_1742503569_P389NJcl8aInqpqH&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/miso/Hosting-712034758516156327/original/4af4a21a-c364-411c-bc66-b79570010658.jpeg?im_w=720']
+948616633723195379,Habitación en Santa Coloma de Gramenet,Habitación encantadora 2,"['1 cama', '· Baño compartido', 'Superanfitrión', '· 2 años de experiencia']","50 € 
+noche
+50 € por noche
+·
+246 € en total
+246 € en total
+Consulta el desglose del precio","4,59",,41 evaluaciones,https://www.airbnb.es/rooms/948616633723195379?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1713041285&source_impression_id=p3_1742503569_P35uf7eP0TCiDmAR&previous_page_section_name=1000&federated_search_id=45497f7b-e3a8-4958-ba7d-e6d4473b3ec3,['https://a0.muscache.com/im/pictures/c462cfdc-ed55-4b19-ae42-fa542c0ba501.jpg?im_w=720']
+1070065447521875184,Apartamento en Barcelona,"Encantador, cerca del estadio del Barça Camp Nou","['2 viajeros', '· Estudio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 2 años de experiencia']","152 € 
+130 € 
+noche
+130 € por noche, inicialmente 152 €
+·
+650 € en total
+650 € en total
+Consulta el desglose del precio","4,76",,17 evaluaciones,https://www.airbnb.es/rooms/1070065447521875184?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3ZR2qOHFAL2cKDy&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3MDA2NTQ0NzUyMTg3NTE4NA%3D%3D/original/2194e020-6454-4bac-99c9-15ddd44e7c15.jpeg?im_w=720']
+1046186301611569881,Apartamento en Cornellà de Llobregat,Estadio Español. Metro Cerca. Centro 20 min!,"['5 viajeros', '· 3 dormitorios', '· 4 camas', '· 1 baño', '2 años de experiencia']","120 € 
+95 € 
+noche
+95 € por noche, inicialmente 120 €
+·
+475 € en total
+475 € en total
+Consulta el desglose del precio","4,71",,41 evaluaciones,https://www.airbnb.es/rooms/1046186301611569881?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3zj1_DWA9Ouga7J&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-1046186301611569881/original/4b3ed45e-6f7c-4ee2-a6f7-85e051498c40.jpeg?im_w=720']
+1082648663534077958,Habitación en Barcelona,Alquila tu oasis privado con baño,"['1 cama', '· Baño privado en el alojamiento', '9 meses de experiencia']","88 € 
+noche
+88 € por noche
+·
+439 € en total
+439 € en total
+Consulta el desglose del precio","4,78",,23 evaluaciones,https://www.airbnb.es/rooms/1082648663534077958?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-13&check_out=2025-04-18&children=0&infants=0&pets=0&photo_id=1833618961&source_impression_id=p3_1742503813_P3M5GMq6vwMiFrL6&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-1082648663534077958/original/118a294f-fb62-492b-8cac-c3c425e488f8.jpeg?im_w=720']
+1333305649813977986,Apartamento en L'Hospitalet de Llobregat,EMB1 Apartamento Eorturopa-Fira Airp,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '6 años de experiencia']","130 € 
+119 € 
+noche
+119 € por noche, inicialmente 130 €
+·
+592 € en total
+592 € en total
+Consulta el desglose del precio","4,67",,6 evaluaciones,https://www.airbnb.es/rooms/1333305649813977986?search_mode=regular_search&adults=1&check_in=2025-03-31&check_out=2025-04-05&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3j7fi5bxdaixR4L&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/hosting/Hosting-1333305649813977986/original/ab8096bd-3176-4a63-b451-e17e72a103c0.jpeg?im_w=720']
+51845044,Apartamento en Barcelona,Nuevo Apartamento en La Sagrada Familia,"['4 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '12 años de experiencia']","155 € 
+137 € 
+noche
+137 € por noche, inicialmente 155 €
+·
+685 € en total
+685 € en total
+Consulta el desglose del precio","4,47",,178 evaluaciones,https://www.airbnb.es/rooms/51845044?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3ZnixJ0k8W-Yiuj&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/3efdb2b2-ef27-4067-843f-64cbfa0520a5.jpg?im_w=720']
+685864152464724046,Apartamento en Barcelona,Ático bonito y espacioso con unas vistas impresionantes,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '6 años de experiencia']","102 € 
+noche
+102 € por noche
+·
+508 € en total
+508 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/685864152464724046?search_mode=regular_search&adults=1&check_in=2026-01-24&check_out=2026-01-29&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3SkzrffTt_htrOG&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-685864152464724046/original/65e010d8-17e2-4b9e-809f-12abe6f2a6ff.jpeg?im_w=720']
+1000447810456915898,Apartamento en Barcelona,can baro 44,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '12 años de experiencia']","164 € 
+122 € 
+noche
+122 € por noche, inicialmente 164 €
+·
+609 € en total
+609 € en total
+Consulta el desglose del precio","4,68",,34 evaluaciones,https://www.airbnb.es/rooms/1000447810456915898?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P38RLhZzyR1hjQfs&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-1000447810456915898/original/b9b30a29-3501-47fd-922f-7b5273370efe.jpeg?im_w=720']
+7230117,Apartamento en Barcelona,"2 1 NUEVO! WIFI, AC, SOLEADO","['3 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '12 años de experiencia']","129 € 
+noche
+129 € por noche
+·
+644 € en total
+644 € en total
+Consulta el desglose del precio","4,54",,215 evaluaciones,https://www.airbnb.es/rooms/7230117?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3JOC3kxt3S261m2&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-7230117/original/d9757bed-95be-439e-ac0f-3065d074d280.jpeg?im_w=720']
+705472614491266491,Apartamento en Barcelona,Pequeño apartamento con encanto Baro 22,"['3 viajeros', '· 1 dormitorio', '· 3 camas', '· 1 baño', '12 años de experiencia']","192 € 
+122 € 
+noche
+122 € por noche, inicialmente 192 €
+·
+609 € en total
+609 € en total
+Consulta el desglose del precio","4,65",,60 evaluaciones,https://www.airbnb.es/rooms/705472614491266491?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3KkQE2vLpL9_XsP&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-705472614491266491/original/186ede07-bda6-47b5-a28a-d469960ac9a5.jpeg?im_w=720']
+1069643013409765982,Apartamento en Barcelona,Magnífico y elegante tríplex en Gracia,"['6 viajeros', '· 2 dormitorios', '· 1,5 baños', 'Superanfitrión', '· 2 años de experiencia']","183 € 
+133 € 
+noche
+133 € por noche, inicialmente 183 €
+·
+661 € en total
+661 € en total
+Consulta el desglose del precio","4,92",,24 evaluaciones,https://www.airbnb.es/rooms/1069643013409765982?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3mDK0zsGKADn1dq&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-1069643013409765982/original/230abfc6-7307-47df-9f39-a53ae2788afc.jpeg?im_w=720']
+110041,Apartamento en Barcelona,002. Alió 2 Apartment,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '14 años de experiencia']","118 € 
+noche
+118 € por noche
+·
+589 € en total
+589 € en total
+Consulta el desglose del precio","4,21",,85 evaluaciones,https://www.airbnb.es/rooms/110041?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3rNSHvBnbEJRp-_&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/24f2fe9f-61b6-4d84-b90e-3c1c4b9ceab9.jpg?im_w=720']
+13571420,Apartamento en Barcelona,PLZ - Totalmente Equipado en Plaza Espanya,"['4 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 10 años de experiencia']","167 € 
+148 € 
+noche
+148 € por noche, inicialmente 167 €
+·
+740 € en total
+740 € en total
+Consulta el desglose del precio","4,63",,521 evaluaciones,https://www.airbnb.es/rooms/13571420?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3Y8ORTbBLuqD7PV&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/bb0d0711-63e8-4904-8838-703acf608732.jpg?im_w=720']
+13686725,Apartamento en L'Hospitalet de Llobregat,Fira Gran Via a pocos minutos. Soleado apartamento,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '9 años de experiencia']","167 € 
+124 € 
+noche
+124 € por noche, inicialmente 167 €
+·
+620 € en total
+620 € en total
+Consulta el desglose del precio","4,86",,271 evaluaciones,https://www.airbnb.es/rooms/13686725?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P39d5H9lmYtAt1qV&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/e7b3cf6b-96c1-4c4d-aa26-ee6a1828e3c2.jpg?im_w=720']
+1203377319704112022,Apartamento en Barcelona,52cir1072 - Acogedor apartamento en el corazón de Gracia,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '11 años de experiencia']","131 € 
+noche
+131 € por noche
+·
+653 € en total
+653 € en total
+Consulta el desglose del precio","4,75",,16 evaluaciones,https://www.airbnb.es/rooms/1203377319704112022?search_mode=regular_search&adults=1&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P330zRz67v4aHLC4&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1203377319704112022/original/f06d6b9e-eba9-4c2e-810f-f9540d8e2b4d.jpeg?im_w=720']
+948616633723195379,Habitación en Santa Coloma de Gramenet,Habitación encantadora 2,"['1 cama', '· Baño compartido', 'Superanfitrión', '· 2 años de experiencia']","50 € 
+noche
+50 € por noche
+·
+246 € en total
+246 € en total
+Consulta el desglose del precio","4,59",,41 evaluaciones,https://www.airbnb.es/rooms/948616633723195379?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1713041285&source_impression_id=p3_1742503813_P3o0K2292qkVQyzj&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/c462cfdc-ed55-4b19-ae42-fa542c0ba501.jpg?im_w=720']
+451758,Loft en Barcelona,Loft luminoso y elegante. Centrico.,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '13 años de experiencia']","150 € 
+139 € 
+noche
+139 € por noche, inicialmente 150 €
+·
+691 € en total
+691 € en total
+Consulta el desglose del precio","4,78",,232 evaluaciones,https://www.airbnb.es/rooms/451758?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P38zH3LSjPjYLFtU&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/150ce673-3c1b-4a5f-a833-041663b3e6f1.jpg?im_w=720']
+1069767464415400271,Apartamento en Barcelona,Gracia & Park Güell Ground Floor,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 2 años de experiencia']","163 € 
+136 € 
+noche
+136 € por noche, inicialmente 163 €
+·
+677 € en total
+677 € en total
+Consulta el desglose del precio","4,92",26,,https://www.airbnb.es/rooms/1069767464415400271?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3Qz1aJ7fy0VxDkK&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/d96c6287-779d-482d-aa73-1282ac3af1b2.jpg?im_w=720']
+1292696195101760234,Apartamento en Barcelona,Bonito apartamento de estilo vintage en el casco antiguo con aire acondicionado y wifi,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 9 meses de experiencia']","208 € 
+165 € 
+noche
+165 € por noche, inicialmente 208 €
+·
+825 € en total
+825 € en total
+Consulta el desglose del precio","4,8",,5 evaluaciones,https://www.airbnb.es/rooms/1292696195101760234?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742503813_P3Hk8-tDHoRX4iN6&previous_page_section_name=1000&federated_search_id=52e8c81c-e864-4fd5-9f0e-e219d1c3cdab,['https://a0.muscache.com/im/pictures/miso/Hosting-1292696195101760234/original/f4af896b-4918-4c31-93d3-4725307ee756.jpeg?im_w=720']
+1345781451993134063,Loft en L'Hospitalet de Llobregat,Moderno Loft soleado minimalista,"['3 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '1 año de experiencia']","193 € 
+158 € 
+noche
+158 € por noche, inicialmente 193 €
+·
+789 € en total
+789 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1345781451993134063?search_mode=regular_search&adults=1&check_in=2025-04-26&check_out=2025-05-01&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P3IHdUYJnvuf8nCR&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/airflow/Hosting-1345781451993134063/original/20bc631b-cdf8-4673-b334-adbfc011b977.jpg?im_w=720']
+451758,Loft en Barcelona,Loft luminoso y elegante. Centrico.,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '13 años de experiencia']","150 € 
+139 € 
+noche
+139 € por noche, inicialmente 150 €
+·
+691 € en total
+691 € en total
+Consulta el desglose del precio","4,78",,232 evaluaciones,https://www.airbnb.es/rooms/451758?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P3euH0MLZ59Um7HM&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/150ce673-3c1b-4a5f-a833-041663b3e6f1.jpg?im_w=720']
+3121245,Apartamento en Hospitalet de Llobregat,Delante de la feria de Gran Via,"['4 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '14 años de experiencia']","203 € 
+128 € 
+noche
+128 € por noche, inicialmente 203 €
+·
+639 € en total
+639 € en total
+Consulta el desglose del precio","4,69",,71 evaluaciones,https://www.airbnb.es/rooms/3121245?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P3VLuwrtRTtbQIDm&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/42460803/7e9e04b7_original.jpg?im_w=720']
+641359891280517949,Habitación en Santa Coloma de Gramenet,Habitación preciosa y con mucha luz natural,"['2 camas', '· Baño compartido', '12 años de experiencia']","60 € 
+50 € 
+noche
+50 € por noche, inicialmente 60 €
+·
+249 € en total
+249 € en total
+Consulta el desglose del precio","4,52",,101 evaluaciones,https://www.airbnb.es/rooms/641359891280517949?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1487331885&source_impression_id=p3_1742504100_P33fUVdCsvKGrnyM&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/28eca2a3-1eb4-4b38-ac8e-7b070d04b60f.jpg?im_w=720']
+1085526102359705719,Habitación en El Prat de Llobregat,Suite aeropuerto 5 / 6 min Mobile World Congress,"['1 cama', '· Baño privado en la habitación', 'Superanfitrión', '· 1 año de experiencia']","134 € 
+102 € 
+noche
+102 € por noche, inicialmente 134 €
+·
+506 € en total
+506 € en total
+Consulta el desglose del precio","4,93",121,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/1085526102359705719?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1836128178&source_impression_id=p3_1742504100_P3CiafVdZBdsDP5i&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/hosting/Hosting-1085526102359705719/original/c19158a5-5680-46a6-9333-95864ed41431.jpeg?im_w=720']
+602228025814091083,Apartamento en Barcelona,203 Acogedor Apt. recién reformado en zona alta,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 3 años de experiencia']","214 € 
+155 € 
+noche
+155 € por noche, inicialmente 214 €
+·
+773 € en total
+773 € en total
+Consulta el desglose del precio","4,85",,66 evaluaciones,https://www.airbnb.es/rooms/602228025814091083?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P3TTBlyC6HZIwO_7&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/97a36475-9cd3-46db-b8f2-112af145963e.jpg?im_w=720']
+1069767464415400271,Apartamento en Barcelona,Gracia & Park Güell Ground Floor,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 2 años de experiencia']","163 € 
+136 € 
+noche
+136 € por noche, inicialmente 163 €
+·
+677 € en total
+677 € en total
+Consulta el desglose del precio","4,92",26,,https://www.airbnb.es/rooms/1069767464415400271?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P3_txK8Ew6lERVEz&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/d96c6287-779d-482d-aa73-1282ac3af1b2.jpg?im_w=720']
+39125732,Apartamento en Barcelona,Big Room BCN,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '10 años de experiencia']","126 € 
+noche
+126 € por noche
+·
+626 € en total
+626 € en total
+Consulta el desglose del precio","4,3",,23 evaluaciones,https://www.airbnb.es/rooms/39125732?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P3TKkVeVKuL-nxgu&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/ec5e231d-24e3-4085-aff3-d1d351481b9b.jpg?im_w=720']
+817232956170575205,Habitación en L'Hospitalet de Llobregat,"Habitación exterior individual, solo hombre.","['1 cama individual', '· Baño compartido', '2 años de experiencia']","46 € 
+42 € 
+noche
+42 € por noche, inicialmente 46 €
+·
+206 € en total
+206 € en total
+Consulta el desglose del precio","4,65",,20 evaluaciones,https://www.airbnb.es/rooms/817232956170575205?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1793695736&source_impression_id=p3_1742504100_P3dybtK7t7qQS2S9&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODE3MjMyOTU2MTcwNTc1MjA1/original/2f3d1f85-71dc-435b-952c-f5012de6478d.jpeg?im_w=720']
+729619298845822569,Habitación en Barcelona,Barcelona/Plaza España: estancia céntrica y tranquila,"['1 cama', '· Aseo compartido', 'Superanfitrión', '· 12 años de experiencia']","77 € 
+noche
+77 € por noche
+·
+381 € en total
+381 € en total
+Consulta el desglose del precio","4,9",,21 evaluaciones,https://www.airbnb.es/rooms/729619298845822569?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&photo_id=1659051304&source_impression_id=p3_1742504100_P3DRQpTEDDsqvqge&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/58d23b87-1ae7-4d60-b59d-959862909a2d.jpg?im_w=720']
+21000077,Habitación en Barcelona,Acogedor y tranquilo,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 7 años de experiencia']","87 € 
+71 € 
+noche
+71 € por noche, inicialmente 87 €
+·
+351 € en total
+351 € en total
+Consulta el desglose del precio","4,78",,161 evaluaciones,https://www.airbnb.es/rooms/21000077?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1366964275&source_impression_id=p3_1742504100_P35D6gIHL0Z5Pa1Z&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/bfcd5e2e-0131-4b68-8562-9ecec4f45b6f.jpg?im_w=720']
+919400235661862943,Habitación en Barcelona,Gran habitación en Eixample/Gracia.,"['1 cama', '· Baño privado en el alojamiento', 'Superanfitrión', '· 2 años de experiencia']","123 € 
+99 € 
+noche
+99 € por noche, inicialmente 123 €
+·
+493 € en total
+493 € en total
+Consulta el desglose del precio","5,0",36,Política de Cookies de Airbnb,https://www.airbnb.es/rooms/919400235661862943?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1681036088&source_impression_id=p3_1742504100_P3MwSaYf--ZfCaVE&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/miso/Hosting-919400235661862943/original/b93a015c-7010-45c1-a63f-3a7f4b61acb9.jpeg?im_w=720']
+659469,Apto. residencial en Barcelona,TANGER JAZZ POBLENOU BEACH & POOL,"['4 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '9 años de experiencia']","236 € 
+133 € 
+noche
+133 € por noche, inicialmente 236 €
+·
+662 € en total
+662 € en total
+Consulta el desglose del precio","4,63",,161 evaluaciones,https://www.airbnb.es/rooms/659469?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504100_P30Ys1RCazgh84Rz&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/15193535/9ef221a4_original.jpg?im_w=720']
+1826858,Loft en Barcelona,Precioso apartamento en el centro.,"['2 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 7 años de experiencia']","197 € 
+164 € 
+noche
+164 € por noche, inicialmente 197 €
+·
+820 € en total
+820 € en total
+Consulta el desglose del precio","4,88",477,,https://www.airbnb.es/rooms/1826858?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504101_P33pn7d3OhojJaBR&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/85930353/b6aa9e07_original.jpg?im_w=720']
+15762813,Apartamento en Barcelona,3-3 · Precioso apartamento Sagrada Familia,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '9 años de experiencia']","196 € 
+142 € 
+noche
+142 € por noche, inicialmente 196 €
+·
+706 € en total
+706 € en total
+Consulta el desglose del precio","4,63",,137 evaluaciones,https://www.airbnb.es/rooms/15762813?search_mode=regular_search&adults=1&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&source_impression_id=p3_1742504101_P3onVrkEx5bCeD1o&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-15762813/original/dfa674f4-fc5d-45a8-af81-62f581421165.jpeg?im_w=720']
+53489406,Apartamento en Badalona,301. Badalona Roger 2.,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '14 años de experiencia']","104 € 
+noche
+104 € por noche
+·
+518 € en total
+518 € en total
+Consulta el desglose del precio","4,25",,12 evaluaciones,https://www.airbnb.es/rooms/53489406?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504101_P3AYR5llDIKiycsE&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-53489406/original/0b5216bd-4320-4a99-9293-2ceca72790ef.jpeg?im_w=720']
+661468363738128570,Apartamento en Sant Adrià de Besòs,Apartamento moderno cerca de Forum Beach,"['5 viajeros', '· 2 dormitorios', '· 4 camas', '· 2 baños', '6 años de experiencia']","127 € 
+noche
+127 € por noche
+·
+631 € en total
+631 € en total
+Consulta el desglose del precio","4,54",,37 evaluaciones,https://www.airbnb.es/rooms/661468363738128570?search_mode=regular_search&adults=1&check_in=2025-03-25&check_out=2025-03-30&children=0&infants=0&pets=0&source_impression_id=p3_1742504101_P3TNojGeoyMBh4Gd&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/8cfdde52-ae01-49e7-9a33-e9140022330d.jpg?im_w=720']
+2669219,Apartamento en Barcelona,L. HUTB008464 Apartamento «Evangelina»,"['4 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 11 años de experiencia']","165 € 
+noche
+165 € por noche
+·
+825 € en total
+825 € en total
+Consulta el desglose del precio","4,82",,388 evaluaciones,https://www.airbnb.es/rooms/2669219?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742504101_P3uJTz2Q55QFaLpH&previous_page_section_name=1000&federated_search_id=63e1bc1b-4d9e-47a0-a35e-1c90d4cc5620,['https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-2669219-unapproved/original/030a732c-2eee-44e9-921d-2f67f5bf028b.JPEG?im_w=720']
+19053607,Apartamento en Barcelona,Loft con vistas a la ciudad junto a Montjuic y el estadio olímpico del FCB,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '3 años de experiencia']","196 € 
+175 € 
+noche
+175 € por noche, inicialmente 196 €
+·
+872 € en total
+872 € en total
+Consulta el desglose del precio","4,89",,305 evaluaciones,https://www.airbnb.es/rooms/19053607?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3W50ZFc8fhyjHTi&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/510f9a3c-d1b7-4565-81e5-7a7b4e96ac3d.jpg?im_w=720']
+1260951371855007669,Apartamento en Barcelona,Moderno apartamento en Diagonal Mar,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', '4 meses de experiencia']","217 € 
+149 € 
+noche
+149 € por noche, inicialmente 217 €
+·
+741 € en total
+741 € en total
+Consulta el desglose del precio","4,82",,11 evaluaciones,https://www.airbnb.es/rooms/1260951371855007669?search_mode=regular_search&adults=1&check_in=2025-03-27&check_out=2025-04-01&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3t-butKa3A5e7vi&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2MDk1MTM3MTg1NTAwNzY2OQ%3D%3D/original/3d8c16c3-8a0d-4c38-88b8-93c200aa7587.jpeg?im_w=720']
+1075302440350161738,Habitación en Barcelona,RD2d Habitación en el centro!,"['1 litera', '· Baño compartido', '3 años de experiencia']","83 € 
+52 € 
+noche
+52 € por noche, inicialmente 83 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,42",,19 evaluaciones,https://www.airbnb.es/rooms/1075302440350161738?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1826456288&source_impression_id=p3_1742504362_P3q14dLkE3Hy2oh7&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/miso/Hosting-912382443223146992/original/7d3a5bea-c1bb-4a37-8228-26b52be58397.jpeg?im_w=720']
+1160968053028634374,Habitación en Barcelona,Elegante habitación El Gotic con baño en la habitación,"['1 cama', '· Baño privado en la habitación', 'Superanfitrión', '· 5 años de experiencia']","184 € 
+noche
+184 € por noche
+·
+920 € en total
+920 € en total
+Consulta el desglose del precio","4,73",,22 evaluaciones,https://www.airbnb.es/rooms/1160968053028634374?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&photo_id=1911531114&source_impression_id=p3_1742504362_P3unQWTuPkWIl_-y&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/8c5a7a65-7bd0-416e-aedc-c10d0d372c3f.jpg?im_w=720']
+1295109553094069217,Apartamento en Barcelona,Estudio de estilismo y modernismo: centro de Barcelona,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '6 meses de experiencia']","181 € 
+noche
+181 € por noche
+·
+904 € en total
+904 € en total
+Consulta el desglose del precio","4,67",,15 evaluaciones,https://www.airbnb.es/rooms/1295109553094069217?search_mode=regular_search&adults=1&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3QiQ9PHpvxft2eG&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NTEwOTU1MzA5NDA2OTIxNw%3D%3D/original/350b9c23-eab2-4b30-ac7c-4f7f23eadd38.jpeg?im_w=720']
+729619298845822569,Habitación en Barcelona,Barcelona/Plaza España: estancia céntrica y tranquila,"['1 cama', '· Aseo compartido', 'Superanfitrión', '· 12 años de experiencia']","77 € 
+noche
+77 € por noche
+·
+381 € en total
+381 € en total
+Consulta el desglose del precio","4,9",,21 evaluaciones,https://www.airbnb.es/rooms/729619298845822569?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&photo_id=1659051304&source_impression_id=p3_1742504362_P3MSGwCi7fLtGrTa&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/58d23b87-1ae7-4d60-b59d-959862909a2d.jpg?im_w=720']
+11862028,Apartamento en Barcelona,Serennia Arco del Triunfo 2 dormitorios,"['4 viajeros', '· 2 dormitorios', '· 4 camas', '· 1 baño', '9 años de experiencia']","206 € 
+161 € 
+noche
+161 € por noche, inicialmente 206 €
+·
+805 € en total
+805 € en total
+Consulta el desglose del precio","4,6",,502 evaluaciones,https://www.airbnb.es/rooms/11862028?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3Nbe0IjaFW2Tu5O&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/miso/Hosting-11862028/original/18ff82dc-b920-4e6e-bcde-975ab14a5769.jpeg?im_w=720']
+3174089,Apartamento en Barcelona,Apartamento Barcelona Gracia,"['3 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', '12 años de experiencia']","180 € 
+157 € 
+noche
+157 € por noche, inicialmente 180 €
+·
+784 € en total
+784 € en total
+Consulta el desglose del precio","4,49",,284 evaluaciones,https://www.airbnb.es/rooms/3174089?search_mode=regular_search&adults=1&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3XyRQojylF180hT&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzE3NDA4OQ%3D%3D/original/0e0e106e-ab9c-4895-bba7-8a90fd4a3b93.jpeg?im_w=720']
+1288213843590145778,Apartamento en Barcelona,Céntrico ático con vistas 180º,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","239 € 
+181 € 
+noche
+181 € por noche, inicialmente 239 €
+·
+902 € en total
+902 € en total
+Consulta el desglose del precio","5,0",,6 evaluaciones,https://www.airbnb.es/rooms/1288213843590145778?search_mode=regular_search&adults=1&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3KLRTbM5IPS-ABM&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4ODIxMzg0MzU5MDE0NTc3OA%3D%3D/original/5048e679-c90b-4dbb-b770-2edba26af7f7.jpeg?im_w=720']
+1331255788037130210,Apartamento en Barcelona,Magnifico apartamento en en centro de la cuidad,"['3 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '2 meses de experiencia']","168 € 
+noche
+168 € por noche
+·
+837 € en total
+837 € en total
+Consulta el desglose del precio","4,38",,8 evaluaciones,https://www.airbnb.es/rooms/1331255788037130210?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3YUpdxTmhONvDbN&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-1331255788037130210/original/0a62d311-b5b1-4c24-b56a-808938c98ca7.jpeg?im_w=720']
+1329663798648754889,Apartamento en Barcelona,¡Encantadora casa en el centro de Gracia!,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '2 años de experiencia']","224 € 
+178 € 
+noche
+178 € por noche, inicialmente 224 €
+·
+890 € en total
+890 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1329663798648754889?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3-oVkenL73l7lWG&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMyOTY2Mzc5ODY0ODc1NDg4OQ%3D%3D/original/4d0f28d5-f3b4-4127-a94a-0c5c237c4e00.jpeg?im_w=720']
+21000077,Habitación en Barcelona,Acogedor y tranquilo,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 7 años de experiencia']","87 € 
+71 € 
+noche
+71 € por noche, inicialmente 87 €
+·
+351 € en total
+351 € en total
+Consulta el desglose del precio","4,78",,161 evaluaciones,https://www.airbnb.es/rooms/21000077?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1366964275&source_impression_id=p3_1742504362_P3ZzCMNT9P5SR_F4&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/bfcd5e2e-0131-4b68-8562-9ecec4f45b6f.jpg?im_w=720']
+11108578,Apartamento en Barcelona,"NUEVO: 2 dormitorios, Poblesec, comida y estadio olímpico del Barça","['4 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', '3 años de experiencia']","198 € 
+174 € 
+noche
+174 € por noche, inicialmente 198 €
+·
+868 € en total
+868 € en total
+Consulta el desglose del precio","4,81",,269 evaluaciones,https://www.airbnb.es/rooms/11108578?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3zHV5gM525CwB4Y&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/miso/Hosting-11108578/original/fead46aa-31c1-4c94-8e2d-627a060b2f4d.jpeg?im_w=720']
+15530332,Apartamento en Barcelona,Apartamento en Avenida Diagonal - Àngeles Terraza,"['3 viajeros', '· 1 dormitorio', '· 3 camas', '· 1 baño', '']","205 € 
+164 € 
+noche
+164 € por noche, inicialmente 205 €
+·
+820 € en total
+820 € en total
+Consulta el desglose del precio","4,84",61,,https://www.airbnb.es/rooms/15530332?search_mode=regular_search&adults=1&check_in=2025-03-28&check_out=2025-04-02&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3OX9hJh2fFDlW6t&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTU1MzAzMzI%3D/original/dd183e96-4384-43cd-8c24-c30548fba4bf.jpeg?im_w=720']
+4725296,Apartamento en Barcelona,El lugar central II,"['3 viajeros', '· 1 dormitorio', '· 3 camas', '· 1 baño', '13 años de experiencia']","242 € 
+166 € 
+noche
+166 € por noche, inicialmente 242 €
+·
+826 € en total
+826 € en total
+Consulta el desglose del precio","4,77",,79 evaluaciones,https://www.airbnb.es/rooms/4725296?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3B3_A0QUBedPx57&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-4725296/original/33ce4944-538c-43e4-8ea9-b3b3fd6758f5.jpeg?im_w=720']
+5130426,Apartamento en Barcelona,MZT - Mucha gracia en Gracia ¡Totalmente equipado!,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· Aseo', 'Superanfitrión', '· 10 años de experiencia']","212 € 
+179 € 
+noche
+179 € por noche, inicialmente 212 €
+·
+895 € en total
+895 € en total
+Consulta el desglose del precio","4,67",,218 evaluaciones,https://www.airbnb.es/rooms/5130426?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P35Gxg9MbNCWgRhw&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTEzMDQyNg%3D%3D/original/a5713fdb-12f3-47d9-a3d0-841717719b6e.jpeg?im_w=720']
+48250297,Apartamento en Monistrol de Montserrat,Apartamento terraza/vistas a Montserrat,"['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 4 años de experiencia']","158 € 
+143 € 
+noche
+143 € por noche, inicialmente 158 €
+·
+711 € en total
+711 € en total
+Consulta el desglose del precio","4,9",146,,https://www.airbnb.es/rooms/48250297?search_mode=regular_search&adults=1&check_in=2025-04-07&check_out=2025-04-12&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3Uh5H7WJ1AhLjeB&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/miso/Hosting-48250297/original/4a34289d-7a28-499a-bcdd-12817d17a7c2.jpeg?im_w=720']
+46511170,Loft en Barcelona,Impresionante loft de diseño en zona segura y tranquila,"['3 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 10 años de experiencia']","251 € 
+210 € 
+noche
+210 € por noche, inicialmente 251 €
+·
+1.049 € en total
+1.049 € en total
+Consulta el desglose del precio","4,97",114,,https://www.airbnb.es/rooms/46511170?search_mode=regular_search&adults=1&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&source_impression_id=p3_1742504362_P3zn76bH6jsEk-bW&previous_page_section_name=1000&federated_search_id=644c6abd-d0b4-43f1-8f2c-e0527f379511,['https://a0.muscache.com/im/pictures/miso/Hosting-46511170/original/28483446-bf15-4cd4-8836-8b9c75b2fdbf.jpeg?im_w=720']
+1149051677692712739,Habitación en Barcelona,E4 Habitación céntrica!,"['1 cama', '· Baño compartido', '3 años de experiencia']","68 € 
+57 € 
+noche
+57 € por noche, inicialmente 68 €
+·
+283 € en total
+283 € en total
+Consulta el desglose del precio","4,4",,20 evaluaciones,https://www.airbnb.es/rooms/1149051677692712739?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1899014036&source_impression_id=p3_1742504640_P3mRbgb-jlQn1u8f&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/hosting/Hosting-1149051677692712739/original/d5efa24c-a660-41a0-ae59-a6965f2ad741.jpeg?im_w=720']
+581025528627007525,Apartamento en Barcelona,Apto con Balcón y Despacho en Última Planta - 43,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","189 € 
+noche
+189 € por noche
+·
+941 € en total
+941 € en total
+Consulta el desglose del precio","4,94",83,,https://www.airbnb.es/rooms/581025528627007525?search_mode=regular_search&adults=1&check_in=2025-04-01&check_out=2025-04-06&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3Uu9N9kdTytTHXO&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTgxMDI1NTI4NjI3MDA3NTI1/original/c984ca71-ef3e-4d85-9424-6ff81e1bb9bb.jpeg?im_w=720']
+1242215,Apartamento en Barcelona,Gracia : Piso fantastico con AC y fibra optica,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1,5 baños', '12 años de experiencia']","162 € 
+noche
+162 € por noche
+·
+808 € en total
+808 € en total
+Consulta el desglose del precio","4,71",,446 evaluaciones,https://www.airbnb.es/rooms/1242215?search_mode=regular_search&adults=1&check_in=2025-05-24&check_out=2025-05-29&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3GcHM3iifJ7V22Q&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/19032727/9532d112_original.jpg?im_w=720']
+1102799905090877003,Apartamento en Barcelona,Apartamento La boqueria Atic,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '1 año de experiencia']","169 € 
+noche
+169 € por noche
+·
+845 € en total
+845 € en total
+Consulta el desglose del precio","4,94",,16 evaluaciones,https://www.airbnb.es/rooms/1102799905090877003?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3L6WRzcH90sOsjh&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1102799905090877003/original/371bf722-9845-468f-92e5-22048386473f.jpeg?im_w=720']
+33816957,Apartamento en Barcelona,En el corazón del barrio de Gracia,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","214 € 
+noche
+214 € por noche
+·
+1.070 € en total
+1.070 € en total
+Consulta el desglose del precio","4,77",,700 evaluaciones,https://www.airbnb.es/rooms/33816957?search_mode=regular_search&adults=1&check_in=2025-08-25&check_out=2025-08-30&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3wk6eipGGCnAmC7&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/c2005e9c-4845-4a48-9255-285bbea670ce.jpg?im_w=720']
+1072998208188701196,Apartamento en Cornellà de Llobregat,Picasso Suites Cornellá 2.1,"['4 viajeros', '· 3 dormitorios', '· 4 camas', '· 1 baño', 'Superanfitrión', '· 14 años de experiencia']","270 € 
+134 € 
+noche
+134 € por noche, inicialmente 270 €
+·
+670 € en total
+670 € en total
+Consulta el desglose del precio","4,92",,12 evaluaciones,https://www.airbnb.es/rooms/1072998208188701196?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3-eYkT4L9lHTAwM&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1072998208188701196/original/6b289b82-d51a-4338-9e8c-58468807425d.jpeg?im_w=720']
+17400650,Apartamento en Barcelona,NUEVO 2 dormitorios junto al estadio olímpico FCB Lluis Companys,"['4 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', '3 años de experiencia']","203 € 
+174 € 
+noche
+174 € por noche, inicialmente 203 €
+·
+868 € en total
+868 € en total
+Consulta el desglose del precio","4,78",,246 evaluaciones,https://www.airbnb.es/rooms/17400650?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3SAAhj65K02km5b&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/miso/Hosting-17400650/original/e2a61014-ea72-4cbf-be9d-ef824a7ebfec.jpeg?im_w=720']
+1247644993389951733,Habitación en Barcelona,Apartamento en Poble Sec,"['2 camas', '· Baño privado en el alojamiento', '11 meses de experiencia']","170 € 
+noche
+170 € por noche
+·
+849 € en total
+849 € en total
+Consulta el desglose del precio","4,75",,8 evaluaciones,https://www.airbnb.es/rooms/1247644993389951733?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-08-31&check_out=2025-09-05&children=0&infants=0&pets=0&photo_id=2008346323&source_impression_id=p3_1742504641_P3Q8kEi8oshJEs1k&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI0NzY0NDk5MzM4OTk1MTczMw%3D%3D/original/2343cc13-d612-433f-80fc-3bea592ccaf5.jpeg?im_w=720']
+1075302440350161738,Habitación en Barcelona,RD2d Habitación en el centro!,"['1 litera', '· Baño compartido', '3 años de experiencia']","83 € 
+52 € 
+noche
+52 € por noche, inicialmente 83 €
+·
+260 € en total
+260 € en total
+Consulta el desglose del precio","4,42",,19 evaluaciones,https://www.airbnb.es/rooms/1075302440350161738?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1826456288&source_impression_id=p3_1742504641_P39bKKCUYd3CudXU&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/miso/Hosting-912382443223146992/original/7d3a5bea-c1bb-4a37-8228-26b52be58397.jpeg?im_w=720']
+572182415885999147,Apartamento en Barcelona,"Corazón de Barcelona, oasis de tranquilidad!","['2 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 6 años de experiencia']","264 € 
+190 € 
+noche
+190 € por noche, inicialmente 264 €
+·
+948 € en total
+948 € en total
+Consulta el desglose del precio","4,82",,45 evaluaciones,https://www.airbnb.es/rooms/572182415885999147?search_mode=regular_search&adults=1&check_in=2025-03-29&check_out=2025-04-03&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3rw_Nne5j5ScC3L&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/miso/Hosting-572182415885999147/original/8da6b530-f8eb-4436-bc1b-6a85e0bdc5fd.jpeg?im_w=720']
+21000077,Habitación en Barcelona,Acogedor y tranquilo,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 7 años de experiencia']","87 € 
+71 € 
+noche
+71 € por noche, inicialmente 87 €
+·
+351 € en total
+351 € en total
+Consulta el desglose del precio","4,78",,161 evaluaciones,https://www.airbnb.es/rooms/21000077?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1366964275&source_impression_id=p3_1742504641_P3l8W4UR1xj8FRpv&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/bfcd5e2e-0131-4b68-8562-9ecec4f45b6f.jpg?im_w=720']
+729619298845822569,Habitación en Barcelona,Barcelona/Plaza España: estancia céntrica y tranquila,"['1 cama', '· Aseo compartido', 'Superanfitrión', '· 12 años de experiencia']","77 € 
+noche
+77 € por noche
+·
+381 € en total
+381 € en total
+Consulta el desglose del precio","4,9",,21 evaluaciones,https://www.airbnb.es/rooms/729619298845822569?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&photo_id=1659051304&source_impression_id=p3_1742504641_P38Apx0PGWKCwuc_&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/58d23b87-1ae7-4d60-b59d-959862909a2d.jpg?im_w=720']
+39213932,Apartamento en Barcelona,¡Vistas increíbles a la Sagrada Familia y al mar!,"['7 viajeros', '· 3 dormitorios', '· 5 camas', '· 1 baño', '5 años de experiencia']","287 € 
+174 € 
+noche
+174 € por noche, inicialmente 287 €
+·
+866 € en total
+866 € en total
+Consulta el desglose del precio","4,7",,126 evaluaciones,https://www.airbnb.es/rooms/39213932?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P30hLBKls0HuWV3o&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/904ce881-5f09-4969-8c40-12c4249395b9.jpg?im_w=720']
+11728465,Apto. residencial en Barcelona,Acogedor estudio en el centro del Born,"['3 viajeros', '· Estudio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","224 € 
+noche
+224 € por noche
+·
+1.120 € en total
+1.120 € en total
+Consulta el desglose del precio","4,59",,320 evaluaciones,https://www.airbnb.es/rooms/11728465?search_mode=regular_search&adults=1&check_in=2025-07-14&check_out=2025-07-19&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3K0pj-m1whvtcpb&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/a723f989-72c6-4c7b-8b8b-f5c90c8213bb.jpg?im_w=720']
+877337890033362176,Apartamento en Sabadell,"Apartamento con patio a 30""BCN","['4 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 2 años de experiencia']","136 € 
+noche
+136 € por noche
+·
+680 € en total
+680 € en total
+Consulta el desglose del precio","4,93",28,,https://www.airbnb.es/rooms/877337890033362176?search_mode=regular_search&adults=1&check_in=2025-03-26&check_out=2025-03-31&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3685B5o1SaESw9B&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/acea07cb-4839-4026-8ccf-d9eb158377fe.jpg?im_w=720']
+921443943233858648,Habitación en Sant Esteve Sesrovires,Escapada en campo de Golf BCN,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 2 años de experiencia']","74 € 
+noche
+74 € por noche
+·
+370 € en total
+370 € en total
+Consulta el desglose del precio","4,72",32,,https://www.airbnb.es/rooms/921443943233858648?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1682960526&source_impression_id=p3_1742504641_P3syLOFOt0C41iFm&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/miso/Hosting-921443943233858648/original/8f1b8758-a484-4c28-a188-d37f556857e0.jpeg?im_w=720']
+598468673580025173,Apartamento en Barcelona,Luminoso apartamento de dos dormitorios en Maragall,"['7 viajeros', '· 2 dormitorios', '· 4 camas', '· 1 baño', '7 años de experiencia']","145 € 
+noche
+145 € por noche
+·
+721 € en total
+721 € en total
+Consulta el desglose del precio","4,47",,30 evaluaciones,https://www.airbnb.es/rooms/598468673580025173?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3lX3MT-n9s1TWW1&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/miso/Hosting-598468673580025173/original/710d46e7-a79a-437f-9a92-96f627d2f9b9.jpeg?im_w=720']
+1350877159785922767,Apartamento en Barcelona,NUEVO apartamento de moda en Barcelona,"['3 viajeros', '· 2 dormitorios', '· 2 camas', '· 2 baños', 'Superanfitrión', '· 13 años de experiencia']","253 € 
+noche
+253 € por noche
+·
+1.264 € en total
+1.264 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1350877159785922767?search_mode=regular_search&adults=1&check_in=2025-04-22&check_out=2025-04-27&children=0&infants=0&pets=0&source_impression_id=p3_1742504641_P3Z3VKqC9dFFbdZK&previous_page_section_name=1000&federated_search_id=a2e3e345-f3a1-4ef6-b8e3-75d8e443b10c,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1MDg3NzE1OTc4NTkyMjc2Nw==/original/d70ceb8f-b4e1-4f51-9f45-ba7a9947eaa8.jpeg?im_w=720']
+921443943233858648,Habitación en Sant Esteve Sesrovires,Escapada en campo de Golf BCN,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 2 años de experiencia']","74 € 
+noche
+74 € por noche
+·
+370 € en total
+370 € en total
+Consulta el desglose del precio","4,72",32,,https://www.airbnb.es/rooms/921443943233858648?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1682960526&source_impression_id=p3_1742504926_P3nD4szUhpZThYgH&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/miso/Hosting-921443943233858648/original/8f1b8758-a484-4c28-a188-d37f556857e0.jpeg?im_w=720']
+11336047,Habitación en Castelldefels,"Vuela a mi encantador aeropuerto,playa y Barcelona","['1 cama de matrimonio grande', '· Baño privado en el alojamiento', '9 años de experiencia']","148 € 
+noche
+148 € por noche
+·
+738 € en total
+738 € en total
+Consulta el desglose del precio","4,97",196,,https://www.airbnb.es/rooms/11336047?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1919381282&source_impression_id=p3_1742504926_P3ezYEapA2MrRJGA&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/airflow/Hosting-11336047/original/8b1406b0-820a-4794-be83-660fc3ee932b.jpg?im_w=720']
+1044882609098734742,Apartamento en Barcelona,G14_ bonito apt. 4 dorm / Balcón. Sagrada Familia,"['5 viajeros', '· 4 dormitorios', '· 4 camas', '· 1 baño', 'Superanfitrión', '· 11 años de experiencia']","316 € 
+202 € 
+noche
+202 € por noche, inicialmente 316 €
+·
+1.007 € en total
+1.007 € en total
+Consulta el desglose del precio","4,97",38,,https://www.airbnb.es/rooms/1044882609098734742?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P3FHWLoeM2oOL6xp&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/hosting/Hosting-1044882609098734742/original/847176b0-f936-4606-95f1-28fb953e7ee1.jpeg?im_w=720']
+2490660,Apartamento en Barcelona,APARTAMENTO EN SAGRADA FAMILIA,"['3 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 11 años de experiencia']","160 € 
+noche
+160 € por noche
+·
+796 € en total
+796 € en total
+Consulta el desglose del precio","4,67",,219 evaluaciones,https://www.airbnb.es/rooms/2490660?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P38SJc9KViaDZrwH&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/2606fef6-fba9-47af-9960-92f71a9d8ca3.jpg?im_w=720']
+1303397385673517963,Apartamento en Barcelona,¡Nuevo! Apartamento boutique con servicios. ¡Limpieza diaria!,"['3 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","258 € 
+noche
+258 € por noche
+·
+1.287 € en total
+1.287 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1303397385673517963?search_mode=regular_search&adults=1&check_in=2025-05-23&check_out=2025-05-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P32w1OMpcVNwycOU&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/miso/Hosting-1302993519915753251/original/3784b703-9dd4-453a-8277-bc473e1fa583.jpeg?im_w=720']
+1121940494221317956,Apartamento en Barcelona,Apartamento de lujo en el centro de Barcelona,"['3 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', '11 meses de experiencia']","246 € 
+noche
+246 € por noche
+·
+1.229 € en total
+1.229 € en total
+Consulta el desglose del precio","4,73",,40 evaluaciones,https://www.airbnb.es/rooms/1121940494221317956?search_mode=regular_search&adults=1&check_in=2025-07-06&check_out=2025-07-11&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P3eFHqYVVM5Nskbm&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyMTk0MDQ5NDIyMTMxNzk1Ng%3D%3D/original/19ba63cd-9609-4039-abd8-8861b6e5e49d.jpeg?im_w=720']
+36756824,Habitación en Cornellà de Llobregat,Bonita Comoda y muy bien ubicada habitación,"['1 cama individual', '· Baño compartido', '6 años de experiencia']","49 € 
+noche
+49 € por noche
+·
+245 € en total
+245 € en total
+Consulta el desglose del precio","4,66",,64 evaluaciones,https://www.airbnb.es/rooms/36756824?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1532811127&source_impression_id=p3_1742504926_P3ypA66NADQUoe2E&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/miso/Hosting-36756824/original/89a7737c-fb54-4b75-9467-c9ced9c4beba.jpeg?im_w=720']
+3110723,Apartamento en Barcelona,Midtown Clarà,"['6 viajeros', '· 3 dormitorios', '· 3 camas', '· 2 baños', '13 años de experiencia']","337 € 
+205 € 
+noche
+205 € por noche, inicialmente 337 €
+·
+1.023 € en total
+1.023 € en total
+Consulta el desglose del precio","4,57",,69 evaluaciones,https://www.airbnb.es/rooms/3110723?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P3qhgdQ5BnO3Z2QP&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-3110723/original/f6d2eed3-4dcb-4854-b494-66626a1acc4e.jpeg?im_w=720']
+1339193710479939962,Apartamento en Barcelona,Apartamento en la Plaza,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '11 años de experiencia']","271 € 
+noche
+271 € por noche
+·
+1.353 € en total
+1.353 € en total
+Consulta el desglose del precio","5,0",5,,https://www.airbnb.es/rooms/1339193710479939962?search_mode=regular_search&adults=1&check_in=2025-08-23&check_out=2025-08-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P3eWVvN7BjRA7H_K&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/miso/Hosting-1339193710479939962/original/ffe3f1e2-7cc1-4ff7-a968-dbc6b0b5ff92.jpeg?im_w=720']
+1048265604717547798,Apartamento en Barcelona,Sweett | Jardinets IV,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '10 años de experiencia']","400 € 
+322 € 
+noche
+322 € por noche, inicialmente 400 €
+·
+1.610 € en total
+1.610 € en total
+Consulta el desglose del precio","4,86",59,,https://www.airbnb.es/rooms/1048265604717547798?search_mode=regular_search&adults=1&check_in=2025-05-01&check_out=2025-05-06&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P33S7SNppq1-_k0E&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1048265604717547798/original/a2771a23-c24c-4922-bfa7-131516cfe40a.jpeg?im_w=720']
+1068919,Apartamento en Barcelona,Apartamento La Rambla para 6/8 personas,"['8 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '13 años de experiencia']","208 € 
+170 € 
+noche
+170 € por noche, inicialmente 208 €
+·
+849 € en total
+849 € en total
+Consulta el desglose del precio","3,89",,46 evaluaciones,https://www.airbnb.es/rooms/1068919?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P3uex2KmW0Rj_QKJ&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/e08b94ed-b72d-4913-a6b1-dab478673037.jpg?im_w=720']
+1285430735360886557,Apartamento en Barcelona,Fabuloso apartamento m,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· 2 baños', '12 años de experiencia']","253 € 
+noche
+253 € por noche
+·
+1.264 € en total
+1.264 € en total
+Consulta el desglose del precio","5,0",9,,https://www.airbnb.es/rooms/1285430735360886557?search_mode=regular_search&adults=1&check_in=2025-10-02&check_out=2025-10-07&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P36sikrilIWNnuYo&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4NTQzMDczNTM2MDg4NjU1Nw%3D%3D/original/bb92840f-bcc3-4f2f-a17b-d207ab87d812.jpeg?im_w=720']
+12216717,Habitación en Cornellà de Llobregat,❤ Habitación confortable y con AIRE ACONDICIONADO!,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 12 años de experiencia']","56 € 
+47 € 
+noche
+47 € por noche, inicialmente 56 €
+·
+232 € en total
+232 € en total
+Consulta el desglose del precio","4,79",262,,https://www.airbnb.es/rooms/12216717?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1504755881&source_impression_id=p3_1742504926_P3edO0KIRRIzVsCb&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/768752ce-b729-4677-80bf-1f23841e6d15.jpg?im_w=720']
+1144637695283332032,Vivienda en Barcelona,Villa Fontpineda a 18Km Barcelona Piscina & Sauna,"['6 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', '9 meses de experiencia']","190 € 
+noche
+190 € por noche
+·
+948 € en total
+948 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1144637695283332032?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P38NFhODBMWryeHl&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/miso/Hosting-1144637695283332032/original/5b36f94a-9fdd-4d9c-b6e5-3b3c3d9c6ca9.jpeg?im_w=720']
+1006222935244656524,Apartamento en Barcelona,G12_Bonito apartamento 4 dormitorios. Sagrada Familia,"['5 viajeros', '· 4 dormitorios', '· 4 camas', '· 1 baño', 'Superanfitrión', '']","313 € 
+218 € 
+noche
+218 € por noche, inicialmente 313 €
+·
+1.089 € en total
+1.089 € en total
+Consulta el desglose del precio","4,9",41,,https://www.airbnb.es/rooms/1006222935244656524?search_mode=regular_search&adults=1&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P33btKXz5VwpVH2s&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/0ebc02fa-3217-4236-9928-5385e36c9b01.jpg?im_w=720']
+1300467230239954572,Vivienda en Olivella,Villa Barcelona,"['16 huéspedes o más', '· 3 dormitorios', '· 9 camas', '· 2 baños', '3 meses de experiencia']","225 € 
+174 € 
+noche
+174 € por noche, inicialmente 225 €
+·
+870 € en total
+870 € en total
+Consulta el desglose del precio","5,0",,3 evaluaciones,https://www.airbnb.es/rooms/1300467230239954572?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P339brBTjnpx5stI&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwMDQ2NzIzMDIzOTk1NDU3Mg%3D%3D/original/907c252d-ce27-4c72-9e67-13e295bbc510.jpeg?im_w=720']
+973826145625543702,Habitación en Santa Coloma de Gramenet,(C) Habitación privada ventana interior cerca bcn,"['1 cama', '· Baño privado en el alojamiento', 'Superanfitrión', '· 2 años de experiencia']","57 € 
+noche
+57 € por noche
+·
+282 € en total
+282 € en total
+Consulta el desglose del precio","4,83",,24 evaluaciones,https://www.airbnb.es/rooms/973826145625543702?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1733952421&source_impression_id=p3_1742504926_P3FjqB5tEhZXJGZm&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/miso/Hosting-788872547667959539/original/e292ceab-b156-4c9f-8694-62d218d98291.jpeg?im_w=720']
+1178913602413098699,Apartamento en Barcelona,19. Paseo de Gracia 44,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 2 baños', '14 años de experiencia']","207 € 
+noche
+207 € por noche
+·
+1.031 € en total
+1.031 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1178913602413098699?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742504926_P3Oo07LLTfdmZbAZ&previous_page_section_name=1000&federated_search_id=430b232f-dc04-4a3d-abbb-361889e31473,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1178913602413098699/original/a7311400-b99b-4831-a0a0-4193c6ac40d0.jpeg?im_w=720']
+1350531463760829364,Apartamento en Barcelona,Luminoso de 2 dormitorios en el centro,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 2 baños', '12 años de experiencia']","336 € 
+noche
+336 € por noche
+·
+1.680 € en total
+1.680 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1350531463760829364?search_mode=regular_search&adults=1&check_in=2025-05-11&check_out=2025-05-16&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3LuzM4rSL4mzdxm&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/miso/Hosting-1350531463760829364/original/856c3a12-9e5a-4b46-8d62-6f9cd4bea04d.jpeg?im_w=720']
+36756824,Habitación en Cornellà de Llobregat,Bonita Comoda y muy bien ubicada habitación,"['1 cama individual', '· Baño compartido', '6 años de experiencia']","49 € 
+noche
+49 € por noche
+·
+245 € en total
+245 € en total
+Consulta el desglose del precio","4,66",,64 evaluaciones,https://www.airbnb.es/rooms/36756824?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=1532811127&source_impression_id=p3_1742505157_P3Tq2W1kKZwRUe-6&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/miso/Hosting-36756824/original/89a7737c-fb54-4b75-9467-c9ced9c4beba.jpeg?im_w=720']
+1337737620001145675,Habitación en Sant Just Desvern,Oasis Barcelona 1,"['1 cama', '· Baño privado en la habitación', '1 mes de experiencia']","148 € 
+122 € 
+noche
+122 € por noche, inicialmente 148 €
+·
+609 € en total
+609 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1337737620001145675?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&photo_id=2092149060&source_impression_id=p3_1742505157_P32SgDvVWxsJBpdz&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/airflow/Hosting-1337737620001145675/original/e0377cef-0061-4a38-a2b8-40e7999a7cce.jpg?im_w=720']
+1035452643448402749,Habitación en Sant Adrià de Besòs,Habitación con vistas al mar.,"['2 dormitorios', '· Baño privado en el alojamiento', '1 año de experiencia']","133 € 
+noche
+133 € por noche
+·
+664 € en total
+664 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1035452643448402749?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-06&check_out=2025-04-11&children=0&infants=0&pets=0&photo_id=1791004401&source_impression_id=p3_1742505157_P3cRCs_iLTLTjKYV&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/hosting/Hosting-1035452643448402749/original/66671869-91ba-42a1-af1d-b48444fdbead.jpeg?im_w=720']
+612243398033258133,Apartamento en Barcelona,Cálido y premium en Rambla Catalunya,"['3 viajeros', '· 1 dormitorio', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 3 años de experiencia']","293 € 
+260 € 
+noche
+260 € por noche, inicialmente 293 €
+·
+1.299 € en total
+1.299 € en total
+Consulta el desglose del precio","4,94",105,,https://www.airbnb.es/rooms/612243398033258133?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3-RNrco7w5Lg_WF&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/miso/Hosting-612243398033258133/original/3ca0abdc-448a-4c25-aa6c-5acfef708bd8.jpeg?im_w=720']
+1132716461890680713,Casa de invitados en El Prat de Llobregat,Alojamiento independiente de invitados,"['2 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baños privado', 'Superanfitrión', '· 6 años de experiencia']","164 € 
+noche
+164 € por noche
+·
+820 € en total
+820 € en total
+Consulta el desglose del precio","5,0",18,,https://www.airbnb.es/rooms/1132716461890680713?search_mode=regular_search&adults=1&check_in=2025-06-16&check_out=2025-06-21&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3Cy4u8QSpQKo-xY&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/hosting/Hosting-1132716461890680713/original/f9f82747-bf3d-4e38-8627-55da933845dc.jpeg?im_w=720']
+566750505374384648,Apartamento en Barcelona,Espacioso apartamento con vistas a Sagrada Familia,"['5 viajeros', '· 3 dormitorios', '· 4 camas', '· 2 baños', '3 años de experiencia']","204 € 
+noche
+204 € por noche
+·
+1.020 € en total
+1.020 € en total
+Consulta el desglose del precio","4,61",,146 evaluaciones,https://www.airbnb.es/rooms/566750505374384648?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3N8jriXy9PrTPH7&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/miso/Hosting-566750505374384648/original/6b6a405b-1571-42f1-b4a9-1879f9a8b365.jpeg?im_w=720']
+1284875489233225788,Habitación en Barcelona,Hermosa Suite LGTBI+,"['1 cama', '· Baño privado en el alojamiento', 'Superanfitrión', '· 8 meses de experiencia']","92 € 
+noche
+92 € por noche
+·
+459 € en total
+459 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1284875489233225788?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-04-11&check_out=2025-04-16&children=0&infants=0&pets=0&photo_id=2025876360&source_impression_id=p3_1742505157_P3mIuRFlomfVRJ6C&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/hosting/Hosting-1186272193821717705/original/d595cdb0-cce5-44a9-8256-5de0ccc8951c.jpeg?im_w=720']
+1336046381519985146,Habitación en Barcelona,F3 Bonita habitación doble,"['1 cama', '· Baño compartido', '1 año de experiencia']","78 € 
+65 € 
+noche
+65 € por noche, inicialmente 78 €
+·
+324 € en total
+324 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1336046381519985146?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=2070226952&source_impression_id=p3_1742505157_P3Qv7YEePiVCLOX3&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/miso/Hosting-1018167167534469139/original/607e8f44-704d-426b-afaa-9b60e5ecf6e3.jpeg?im_w=720']
+42419142,Apartamento en Barcelona,Sweett | Sepúlveda 4A,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '10 años de experiencia']","317 € 
+284 € 
+noche
+284 € por noche, inicialmente 317 €
+·
+1.418 € en total
+1.418 € en total
+Consulta el desglose del precio","4,64",,121 evaluaciones,https://www.airbnb.es/rooms/42419142?search_mode=regular_search&adults=1&check_in=2025-04-10&check_out=2025-04-15&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3r9V6RF2Lj_44cZ&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-42419142/original/afba53e8-cdd2-4f06-8167-a960fe2ef76c.jpeg?im_w=720']
+44027821,Suite con entrada independiente en Barcelona,Increíble loft en el centro de la ciudad. Alquiler mensual.,"['2 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 6 años de experiencia']","179 € 
+noche
+179 € por noche
+·
+1.253 € en total
+1.253 € en total
+Consulta el desglose del precio","4,91",,11 evaluaciones,https://www.airbnb.es/rooms/44027821?search_mode=regular_search&adults=1&check_in=2025-04-05&check_out=2025-04-12&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P36vHiYLktpMYHH5&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/a89258ed-3b53-4ad7-9b69-c2c8e9e20c14.jpg?im_w=720']
+5130426,Apartamento en Barcelona,MZT - Mucha gracia en Gracia ¡Totalmente equipado!,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· Aseo', 'Superanfitrión', '· 10 años de experiencia']","212 € 
+179 € 
+noche
+179 € por noche, inicialmente 212 €
+·
+895 € en total
+895 € en total
+Consulta el desglose del precio","4,67",,218 evaluaciones,https://www.airbnb.es/rooms/5130426?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3aQMGr2dhtU7tEK&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTEzMDQyNg%3D%3D/original/a5713fdb-12f3-47d9-a3d0-841717719b6e.jpeg?im_w=720']
+23001940,Apartamento en Barcelona,Apartamento moderno y elegante en Poble Sec.,"['4 viajeros', '· 1 dormitorio', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 7 años de experiencia']","194 € 
+noche
+194 € por noche
+·
+966 € en total
+966 € en total
+Consulta el desglose del precio","4,93",285,,https://www.airbnb.es/rooms/23001940?search_mode=regular_search&adults=1&check_in=2025-08-22&check_out=2025-08-27&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3Z69M4fhdzHwv2R&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/31161b5e-ff79-4845-b1b7-f00f9f8a0960.jpg?im_w=720']
+3393839,Apartamento en Barcelona,Apartamento soleado Sagrada Familia 5,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 11 años de experiencia']","258 € 
+210 € 
+noche
+210 € por noche, inicialmente 258 €
+·
+1.048 € en total
+1.048 € en total
+Consulta el desglose del precio","4,88",269,,https://www.airbnb.es/rooms/3393839?search_mode=regular_search&adults=1&check_in=2025-04-06&check_out=2025-04-11&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3QOuVFIoqP6221h&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/42984240/aba4a382_original.jpg?im_w=720']
+32400098,Apartamento en Barcelona,Nuevo apartamento con encanto y muy acogedor.,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 6 años de experiencia']","301 € 
+noche
+301 € por noche
+·
+1.502 € en total
+1.502 € en total
+Consulta el desglose del precio","4,88",,110 evaluaciones,https://www.airbnb.es/rooms/32400098?search_mode=regular_search&adults=1&check_in=2025-05-04&check_out=2025-05-09&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3z4O_U3VGPZc92V&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MzI0MDAwOTg=/original/94d350e6-5b70-424e-8175-7a27383dde9d.jpeg?im_w=720']
+1329663798648754889,Apartamento en Barcelona,¡Encantadora casa en el centro de Gracia!,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', '2 años de experiencia']","224 € 
+178 € 
+noche
+178 € por noche, inicialmente 224 €
+·
+890 € en total
+890 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1329663798648754889?search_mode=regular_search&adults=1&check_in=2025-03-23&check_out=2025-03-28&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3nS8QY_8oNx6eWp&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMyOTY2Mzc5ODY0ODc1NDg4OQ%3D%3D/original/4d0f28d5-f3b4-4127-a94a-0c5c237c4e00.jpeg?im_w=720']
+21000077,Habitación en Barcelona,Acogedor y tranquilo,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 7 años de experiencia']","87 € 
+71 € 
+noche
+71 € por noche, inicialmente 87 €
+·
+351 € en total
+351 € en total
+Consulta el desglose del precio","4,78",,161 evaluaciones,https://www.airbnb.es/rooms/21000077?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1366964275&source_impression_id=p3_1742505157_P3C6Us3qpoHu1cBW&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/bfcd5e2e-0131-4b68-8562-9ecec4f45b6f.jpg?im_w=720']
+673086214664958018,Apartamento en Barcelona,Tranquilo: metro hacia el centro a 3 minutos a pie,"['2 viajeros', '· 2 dormitorios', '· 1 cama', '· 1 baño', 'Superanfitrión', '· 3 años de experiencia']","120 € 
+103 € 
+noche
+103 € por noche, inicialmente 120 €
+·
+515 € en total
+515 € en total
+Consulta el desglose del precio","4,88",170,,https://www.airbnb.es/rooms/673086214664958018?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742505157_P3pQGIUGw2WVmPIv&previous_page_section_name=1000&federated_search_id=0e93c459-9f96-46f9-8629-ad3fe26e7abd,['https://a0.muscache.com/im/pictures/miso/Hosting-673086214664958018/original/6dc2bac3-2d55-4368-ab61-ccc0d2696f14.jpeg?im_w=720']
+1314437612224801041,Apartamento en Barcelona,Ola Living St Antoni Sa2.,"['6 viajeros', '· 3 dormitorios', '· 4 camas', '· 2 baños', '7 años de experiencia']","156 € 
+noche
+156 € por noche
+·
+776 € en total
+776 € en total
+Consulta el desglose del precio","5,0",,4 evaluaciones,https://www.airbnb.es/rooms/1314437612224801041?search_mode=regular_search&adults=1&check_in=2025-03-24&check_out=2025-03-29&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3ZD1EWMaTkl25Py&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1314437612224801041/original/a21cb2f9-dd07-48d6-bf7f-a7542e9e555f.jpeg?im_w=720']
+1744379,Apartamento en Barcelona,Diseño y artesanía en la Sagrada Familia,"['4 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","230 € 
+210 € 
+noche
+210 € por noche, inicialmente 230 €
+·
+1.050 € en total
+1.050 € en total
+Consulta el desglose del precio","4,82",,392 evaluaciones,https://www.airbnb.es/rooms/1744379?search_mode=regular_search&adults=1&check_in=2025-04-04&check_out=2025-04-09&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3nuB4_eDT0wanUx&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/25056923/6c443894_original.jpg?im_w=720']
+1220257187894808975,Casa de invitados en Santa Coloma de Cervelló,Casa acogedora cerca Barcelona,"['5 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 6 meses de experiencia']","214 € 
+noche
+214 € por noche
+·
+1.069 € en total
+1.069 € en total
+Consulta el desglose del precio","4,75",12,,https://www.airbnb.es/rooms/1220257187894808975?search_mode=regular_search&adults=1&check_in=2025-04-07&check_out=2025-04-12&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3rEmubQwxJVHNUk&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/miso/Hosting-1220257187894808975/original/041949e8-3b12-4a4d-8c5f-5ada309dc193.jpeg?im_w=720']
+1041060,Apartamento en Barcelona,Perfecto.,"['4 viajeros', '· 2 dormitorios', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 12 años de experiencia']","259 € 
+217 € 
+noche
+217 € por noche, inicialmente 259 €
+·
+1.083 € en total
+1.083 € en total
+Consulta el desglose del precio","4,76",,269 evaluaciones,https://www.airbnb.es/rooms/1041060?search_mode=regular_search&adults=1&check_in=2025-04-05&check_out=2025-04-10&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3kgsEr9qcSI_aJx&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/7a87632e-dee6-40dc-97dc-8e3066454a12.jpg?im_w=720']
+18580179,Apartamento en Barcelona,El lugar central VII,"['5 viajeros', '· 3 dormitorios', '· 5 camas', '· 1 baño', '13 años de experiencia']","326 € 
+234 € 
+noche
+234 € por noche, inicialmente 326 €
+·
+1.166 € en total
+1.166 € en total
+Consulta el desglose del precio","4,66",,76 evaluaciones,https://www.airbnb.es/rooms/18580179?search_mode=regular_search&adults=1&check_in=2025-03-20&check_out=2025-03-25&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3OZPrDc_oLHtnjP&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-18580179/original/c0e3c044-02a8-4590-8160-86aefe5360a7.jpeg?im_w=720']
+50124259,Apto. residencial en Barcelona,Acogedor Apartamento en Sagrada Familia,"['4 viajeros', '· 3 dormitorios', '· 4 camas', '· 1 baño', '4 años de experiencia']","190 € 
+noche
+190 € por noche
+·
+948 € en total
+948 € en total
+Consulta el desglose del precio","4,57",,213 evaluaciones,https://www.airbnb.es/rooms/50124259?search_mode=regular_search&adults=1&check_in=2025-08-25&check_out=2025-08-30&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3ozx8LSrIUPUCru&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/miso/Hosting-50124259/original/94ab5365-40a6-4d8f-9f9a-75d4cf714c5c.jpeg?im_w=720']
+1353323776184305643,Habitación en Badalona,"Deluxe con terraza privada, baño, cocina.","['2 camas', '· Baño privado en la habitación', '1 mes de experiencia']","153 € 
+noche
+153 € por noche
+·
+761 € en total
+761 € en total
+Consulta el desglose del precio",,,1 evaluación,https://www.airbnb.es/rooms/1353323776184305643?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-07-13&check_out=2025-07-18&children=0&infants=0&pets=0&photo_id=2086045785&source_impression_id=p3_1742505466_P3lC-wuaSUfYmEmM&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/hosting/Hosting-1353323776184305643/original/c9e36811-e16e-47ea-beb1-42a62cea459a.jpeg?im_w=720']
+1284019049758729083,Apartamento en Barcelona,Apartamento privado en Las Ramblas,"['4 viajeros', '· 2 dormitorios', '· 1 baño', '8 meses de experiencia']","260 € 
+noche
+260 € por noche
+·
+1.299 € en total
+1.299 € en total
+Consulta el desglose del precio","4,62",,26 evaluaciones,https://www.airbnb.es/rooms/1284019049758729083?search_mode=regular_search&adults=1&check_in=2025-03-31&check_out=2025-04-05&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3XkTgShr8_oONiP&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/miso/Hosting-1284019049758729083/original/1d4ea38b-1b48-4d52-abf9-e9121899f675.jpeg?im_w=720']
+1289626274109641711,Apartamento en Barcelona,Elegante apartamento de una habitación,"['3 viajeros', '· 1 dormitorio', '· 2 camas', '· 1 baño', 'Superanfitrión', '· 9 meses de experiencia']","192 € 
+noche
+192 € por noche
+·
+960 € en total
+960 € en total
+Consulta el desglose del precio","4,8",,10 evaluaciones,https://www.airbnb.es/rooms/1289626274109641711?search_mode=regular_search&adults=1&check_in=2025-03-31&check_out=2025-04-05&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3DkqQKUHvEnPA-l&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/hosting/Hosting-1289626274109641711/original/42e1cd31-797a-42ca-9edd-6dd4d031c055.png?im_w=720']
+29119333,Apartamento en Barcelona,5-1 · Sagrada Familia 51,"['4 viajeros', '· 3 dormitorios', '· 3 camas', '· 1 baño', '9 años de experiencia']","221 € 
+180 € 
+noche
+180 € por noche, inicialmente 221 €
+·
+898 € en total
+898 € en total
+Consulta el desglose del precio","4,7",,27 evaluaciones,https://www.airbnb.es/rooms/29119333?search_mode=regular_search&adults=1&check_in=2025-03-30&check_out=2025-04-04&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3o_XG5CRgSnNNlR&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-29119333/original/acacfd8b-4b92-4222-b2eb-9ed34dd803e6.jpeg?im_w=720']
+4725070,Apartamento en Barcelona,El alojamiento central I,"['2 viajeros', '· 2 dormitorios', '· 4 camas', '· 2 baños', '13 años de experiencia']","277 € 
+209 € 
+noche
+209 € por noche, inicialmente 277 €
+·
+1.043 € en total
+1.043 € en total
+Consulta el desglose del precio","4,73",,66 evaluaciones,https://www.airbnb.es/rooms/4725070?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P36CwoJhbVotInVv&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-4725070/original/a41473b5-9a44-4d91-8e92-dff5ff9dd8bd.jpeg?im_w=720']
+2804502,Apartamento en Barcelona,Apartamento Barcelona-Sants HUTB-009116-72,"['4 viajeros', '· 2 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 13 años de experiencia']","231 € 
+159 € 
+noche
+159 € por noche, inicialmente 231 €
+·
+793 € en total
+793 € en total
+Consulta el desglose del precio","4,77",,267 evaluaciones,https://www.airbnb.es/rooms/2804502?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3awNP2G9E7rbRME&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/1ae35704-83e4-445f-8d49-03a3d0c74e7a.jpg?im_w=720']
+1020160504469501314,Habitación en L'Hospitalet de Llobregat,Lujoso apartamento al lado del metro,"['1 cama', '· Baño compartido', 'Superanfitrión', '· 1 año de experiencia']","138 € 
+127 € 
+noche
+127 € por noche, inicialmente 138 €
+·
+632 € en total
+632 € en total
+Consulta el desglose del precio","4,91",11,,https://www.airbnb.es/rooms/1020160504469501314?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&photo_id=1776212174&source_impression_id=p3_1742505466_P3Ep-Lmcpx_y0Wl5&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/hosting/Hosting-1020160504469501314/original/c40f4daf-7253-4100-98fb-9f4703e7b7db.jpeg?im_w=720']
+20793112,Apartamento en Barcelona,Casa Tamarita cerca del parque Güell,"['4 viajeros', '· 2 dormitorios', '· 4 camas', '· 1 baño', 'Superanfitrión', '· 8 años de experiencia']","195 € 
+noche
+195 € por noche
+·
+972 € en total
+972 € en total
+Consulta el desglose del precio","4,82",,188 evaluaciones,https://www.airbnb.es/rooms/20793112?search_mode=regular_search&adults=1&check_in=2025-06-13&check_out=2025-06-18&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3wNYBNKU51wF8R9&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/014fb1e8-6c2a-477c-a196-671717a5a228.jpg?im_w=720']
+1072990171691972837,Apartamento en Cornellà de Llobregat,Picasso Suites Cornellá 1.2,"['4 viajeros', '· 3 dormitorios', '· 3 camas', '· 1 baño', 'Superanfitrión', '· 14 años de experiencia']","268 € 
+132 € 
+noche
+132 € por noche, inicialmente 268 €
+·
+660 € en total
+660 € en total
+Consulta el desglose del precio","5,0",8,,https://www.airbnb.es/rooms/1072990171691972837?search_mode=regular_search&adults=1&check_in=2025-03-21&check_out=2025-03-26&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3-qDnwzRq8tnP50&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/prohost-api/Hosting-1072990171691972837/original/b083cddd-2e6c-425e-84d4-ddc3f2bf2b55.png?im_w=720']
+682552940191795799,Habitación en El Prat de Llobregat,Habitación privada en el Prat (Barcelona) con aire,"['1 cama de matrimonio', '· Baño compartido', 'Superanfitrión', '· 3 años de experiencia']","79 € 
+noche
+79 € por noche
+·
+393 € en total
+393 € en total
+Consulta el desglose del precio","4,96",219,,https://www.airbnb.es/rooms/682552940191795799?search_mode=regular_search&adults=1&category_tag=Tag%3A8678&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&photo_id=1477034046&source_impression_id=p3_1742505466_P3Q4xcWMSOoz0BNc&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/miso/Hosting-682552940191795799/original/13c51705-ebb3-46e3-a07e-cc5828153abf.jpeg?im_w=720']
+1310109910077027618,Apartamento en Barcelona,Cómodo piso de 3 hab en Sants,"['6 viajeros', '· 3 dormitorios', '· 5 camas', '· 2 baños', '7 años de experiencia']","329 € 
+176 € 
+noche
+176 € por noche, inicialmente 329 €
+·
+880 € en total
+880 € en total
+Consulta el desglose del precio",,,2 evaluaciones,https://www.airbnb.es/rooms/1310109910077027618?search_mode=regular_search&adults=1&check_in=2025-03-22&check_out=2025-03-27&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3MQa5BzFeicXFT5&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/miso/Hosting-1310109910077027618/original/9c8f9a9b-6c4a-4a8e-ac93-94bc4e36d9c6.jpeg?im_w=720']
+1042002618810922779,Apartamento en Barcelona,Días inolvidables y confort total en el centro,"['5 viajeros', '· 2 dormitorios', '· 4 camas', '· 1,5 baños', 'Superanfitrión', '· 13 años de experiencia']","394 € 
+346 € 
+noche
+346 € por noche, inicialmente 394 €
+·
+1.729 € en total
+1.729 € en total
+Consulta el desglose del precio","4,93",75,,https://www.airbnb.es/rooms/1042002618810922779?search_mode=regular_search&adults=1&check_in=2025-04-12&check_out=2025-04-17&children=0&infants=0&pets=0&source_impression_id=p3_1742505466_P3fIktpYbM589JtR&previous_page_section_name=1000&federated_search_id=2abc3279-bfe2-400f-8e5c-35a23c65d009,['https://a0.muscache.com/im/pictures/miso/Hosting-1042002618810922779/original/bcdd1cd5-b564-4eb5-8406-a86603c97438.jpeg?im_w=720']
