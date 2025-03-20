@@ -4,17 +4,21 @@ Un scraper responsable para extraer datos de listados de Airbnb con limitación 
 
 ## Características
 
-- Extrae detalles de los listados incluyendo títulos, precios, calificaciones y comodidades
-- Implementa retrasos aleatorios entre solicitudes
-- Rota agentes de usuario
-- Maneja errores de manera elegante
+- Extrae detalles de los listados incluyendo títulos, precios, valoraciones y detalles del alojamiento
+- Implementa retrasos aleatorios entre solicitudes (3-7 segundos)
+- Rota entre múltiples agentes de usuario
+- Logging completo de la ejecución
+- Descarga de imágenes principales
 - Guarda los datos en formato CSV
+- Navegación automática entre páginas
+- Soporte para extracción multi-página
+- Sistema de espera inteligente para carga de elementos
 
 ## Requisitos
 
 - Python 3.8+
-- Navegador Chrome
-- Paquetes de Python requeridos listados en `requirements.txt`
+- Google Chrome
+- Paquetes Python listados en `requirements.txt`
 
 ## Configuración
 
@@ -25,39 +29,43 @@ Un scraper responsable para extraer datos de listados de Airbnb con limitación 
 pip install -r requirements.txt
 ```
 
-3. Ejecuta el scraper:
+3. Configura los parámetros de extracción en `main.py`:
+```python
+destino = "Barcelona"  # Ciudad a buscar
+num_paginas_extraer = 1  # Número de páginas a extraer
+```
+
+4. Ejecuta el scraper:
 
 ```bash
-python source/main.py
+python main.py
 ```
 
 ## Salida
 
 El scraper genera un archivo CSV en el directorio `dataset` con los siguientes campos:
 
-- ID único del alojamiento
-- Nombre del alojamiento
-- Descripción de la propiedad
-- Precio por noche
-- Precio con descuento
-- Valoración media
-- Número total de evaluaciones
-- Número de huéspedes
-- Dormitorios
-- Camas
-- Baños
-- URL del listado
-- URL de la imágen principal
+- ID: Identificador único del anuncio
+- Titulo: Título del anuncio
+- Descripción: Descripción completa del alojamiento
+- Info: Lista de características del alojamiento
+- Precio: Precio por noche y precio total
+- Valoración: Puntuación del alojamiento
+- num valoraciones: Número de valoraciones (formato 1)
+- num valoraciones2: Número de valoraciones (formato 2)
+- Enlace: URL del anuncio
+- Imagenes: URLs de las imágenes descargadas
 
-Los datos se guardan en formato CSV con codificación UTF-8 y separador de coma.
+Las imágenes se guardan en `dataset/imagenes` con el ID del alojamiento como nombre de archivo.
 
-El scraper extrae la imágen principal en formato .jpg en el directorio `dataset/imagenes`.
+## Registro de actividad
+
+El scraper genera un archivo `scraping.log` con información detallada de la ejecución, incluyendo errores y advertencias.
 
 ## Dataset en Zenodo
 
 El dataset ejemplo generado por este scraper se puede encontrar en Zenodo en el siguiente enlace:
-
-[Enlace al dataset en Zenodo](#)
+https://doi.org/10.5281/zenodo.15056113
 
 ## Autores
 
